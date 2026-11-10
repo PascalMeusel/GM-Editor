@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "style_id": "fantasy_neutral",
+  "style_version": 3,
+  "atlas_version": "3.2",
+  "snapshot_id": "fantasy_neutral_v3_2_e5c3a517aa3dea2d",
+  "base_snapshot_id": "fantasy_neutral_v3_1_aea3165fcbd3eda3",
+  "asset_count": 3,
+  "accepted_count": 3,
+  "overlay_content_sha256": "e5c3a517aa3dea2d611295b33c753ee98e1eaec633d17664d857cefd5aa3b2e6",
+  "fingerprint_rule": "SHA256 over UTF-8 base_snapshot_id, sorted asset id|file|sha256 rows, and sorted selection policy rows map_level|role|semantic_role|mode, each terminated by LF; wildcard semantic role is *",
+  "build_method": "Versioned World-scale corrective overlay; the generated PNGs have only their outermost one-pixel alpha edge normalized and are selected by explicit snapshot policy",
+  "selection_overrides": [
+    {
+      "map_level": "world",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "mode": "replace_base_candidates",
+      "asset_ids": [
+        "fantasy_neutral.v32.world_mountain_range.01",
+        "fantasy_neutral.v32.world_mountain_range.02",
+        "fantasy_neutral.v32.world_mountain_range.03"
+      ],
+      "reason": "Replace visibly clipped V3.1 composite mountain sheets in the World renderer."
+    },
+    {
+      "map_level": "world",
+      "role": "vegetation_stamp",
+      "semantic_role": "*",
+      "mode": "suppress",
+      "asset_ids": [],
+      "reason": "World maps communicate forests as continuous biome material rather than tactical tree stamps."
+    }
+  ],
+  "selection_exclusions": [
+    {
+      "map_level": "world",
+      "role": "vegetation_stamp",
+      "semantic_role": "*",
+      "reason": "Prevent every individual vegetation fallback, including mixed_tree_group and forest_edge, on World maps."
+    }
+  ],
+  "human_review": {
+    "status": "pending_owner_review",
+    "reviewer": null,
+    "complete": false,
+    "scope_completed": "Technical integration and transparent-edge inspection only",
+    "required_action": "Project owner must approve the three images in representative World maps before distribution."
+  },
+  "distribution": {
+    "status": "blocked_pending_rights_review",
+    "rights_clearance_complete": false,
+    "license_assertion": null,
+    "required_action": "Verify applicable OpenAI ImageGen terms, project ownership, and commercial distribution eligibility before shipping."
+  },
+  "assets": [
+    {
+      "id": "fantasy_neutral.v32.world_mountain_range.01",
+      "family": "world_macro_mountains",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "world_macro_mountains/fantasy_neutral__v32__world_mountain_range__01.png",
+      "sha256": "147fa411110f88f961a2743576233e085cc687e478abcdef8963902478466f1d",
+      "dimensions": { "width": 1536, "height": 1024 },
+      "transparent": true,
+      "status": "accepted",
+      "acceptance_scope": "runtime_corrective_overlay_only",
+      "allowed_map_types": ["world"],
+      "minimum_display_cells": 4.0,
+      "maximum_display_cells": 12.0,
+      "footprint": { "width": 9, "height": 6 },
+      "placement_density": 0.035,
+      "cluster_spacing": 9.0,
+      "zoom_range": { "minimum": 0.1, "maximum": 4.5 },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "ai_generated_bitmap",
+        "tool": "OpenAI ImageGen",
+        "prompt_record": "docs/assets/FANTASY_NEUTRAL_V32_IMAGEGEN_PROVENANCE.md",
+        "license_status": "pending_rights_review"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v32.world_mountain_range.02",
+      "family": "world_macro_mountains",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "world_macro_mountains/fantasy_neutral__v32__world_mountain_range__02.png",
+      "sha256": "0744f1c492e3a87845ac2bc647bf27ef9849cd1b3dcd4b0e2fdde97179fd7d2c",
+      "dimensions": { "width": 1536, "height": 1024 },
+      "transparent": true,
+      "status": "accepted",
+      "acceptance_scope": "runtime_corrective_overlay_only",
+      "allowed_map_types": ["world"],
+      "minimum_display_cells": 4.0,
+      "maximum_display_cells": 12.0,
+      "footprint": { "width": 9, "height": 6 },
+      "placement_density": 0.035,
+      "cluster_spacing": 9.0,
+      "zoom_range": { "minimum": 0.1, "maximum": 4.5 },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "ai_generated_bitmap",
+        "tool": "OpenAI ImageGen",
+        "prompt_record": "docs/assets/FANTASY_NEUTRAL_V32_IMAGEGEN_PROVENANCE.md",
+        "license_status": "pending_rights_review"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v32.world_mountain_range.03",
+      "family": "world_macro_mountains",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "world_macro_mountains/fantasy_neutral__v32__world_mountain_range__03.png",
+      "sha256": "9b8f337c5d4fce5b44bb8af3cf321613a748eaa9d7de95c6163f842509384781",
+      "dimensions": { "width": 1536, "height": 1024 },
+      "transparent": true,
+      "status": "accepted",
+      "acceptance_scope": "runtime_corrective_overlay_only",
+      "allowed_map_types": ["world"],
+      "minimum_display_cells": 4.0,
+      "maximum_display_cells": 12.0,
+      "footprint": { "width": 9, "height": 6 },
+      "placement_density": 0.035,
+      "cluster_spacing": 9.0,
+      "zoom_range": { "minimum": 0.1, "maximum": 4.5 },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "ai_generated_bitmap",
+        "tool": "OpenAI ImageGen",
+        "prompt_record": "docs/assets/FANTASY_NEUTRAL_V32_IMAGEGEN_PROVENANCE.md",
+        "license_status": "pending_rights_review"
+      }
+    }
+  ]
+}

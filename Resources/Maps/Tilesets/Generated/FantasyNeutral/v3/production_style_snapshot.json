@@ -1,0 +1,2141 @@
+﻿{
+    "schema_version":  1,
+    "snapshot_id":  "fantasy_neutral_v3_15650456ddb04b04",
+    "state":  "production",
+    "style_id":  "fantasy_neutral",
+    "style_version":  3,
+    "art_direction_id":  "fantasy_neutral_warm_painterly@1",
+    "source_manifest_sha256":  "cb9f7b1ef36857d89c882fa11389e55f3c5aed5428fa6a05f8b912be13922b57",
+    "created_at_utc":  "2026-09-04T18:36:23.2328873Z",
+    "asset_count":  424,
+    "human_review":  {
+                         "reviewer":  "Project owner",
+                         "required_maps":  1000,
+                         "reviewed_maps":  0,
+                         "complete":  false,
+                         "owner_override_applied":  true,
+                         "owner_override_reason":  "The project owner explicitly approved all 424 FantasyNeutral V3 candidates for production."
+                     },
+    "assets":  [
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v001",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v001.png",
+                       "sha256":  "2e922e67c59f360f3a9c28b1999828ea71ba3072a02d89fd38925900a8b3c975"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v002",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v002.png",
+                       "sha256":  "61201b050ae70a7ab2b35cf069e9c1d8b174f8aa876d24b6e8b3c30410d7035a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v003",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v003.png",
+                       "sha256":  "bfd812ee1f84535bc1c04e41b0dc68b557478377949379bb43f2f6afd0bce626"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v004",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v004.png",
+                       "sha256":  "a99808a7b1a9bddc93fdcaf180f83c49d83faeddd50fd848066612768890b43c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v005",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v005.png",
+                       "sha256":  "6ceeb86b69e16bfcc8f8a11e471d70efa08ed41b252f1eb75955899019425246"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v006",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v006.png",
+                       "sha256":  "4ed937ef3cfa489b0fdc3d51befddd7b5d4ab5a000de0fdffeaabab1bb0ba2d3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v007",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v007.png",
+                       "sha256":  "94f059a2543f1bde6eba4718ee4e207e586f77e2e11fcc833cb9102c22a9483d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v008",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v008.png",
+                       "sha256":  "4a6eba969d0a7a339ed79566840583e17e6abecaac427f40943315715969ea66"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v009",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v009.png",
+                       "sha256":  "c0df3ecb59c4a5a00ef9d0fc31c722aa6aa05c7ba1c6498fe1c12ac0ee30914b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v010",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v010.png",
+                       "sha256":  "167117b24317c8a5e19a06dedcccdd6daf7df08c791ca56a50645fee165a0363"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v011",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v011.png",
+                       "sha256":  "d7b48e1f122dbd3af1efead2459df4bebe398eb322f1caf8b4585021369d6d7c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v012",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v012.png",
+                       "sha256":  "f0ca223b6f829130a5ce824b426325a1eba3d9b86ed281f112e3fa1efa2a83b3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v013",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v013.png",
+                       "sha256":  "dafe87da9b34a906629138e94d516987a0fcb11a9e2085dccffeb08ac2b0fd84"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v014",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v014.png",
+                       "sha256":  "45a38b82d1908940693bc084f7d7c5318cf77d8fdf7152be9e71122989515015"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v015",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v015.png",
+                       "sha256":  "8bde82d858b4381dab4fc3ccb0d62083d6269675919304062f644709ae6ea199"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v016",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v016.png",
+                       "sha256":  "2952140ef7427d474c51331599aed4341581f55188e00e34b9ae58b429d47b5d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v017",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v017.png",
+                       "sha256":  "79bc85fea1d36f7925d8370ddf6bb4c51b7127d4f8b323e0fd09e3d28ab3f0d2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v018",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v018.png",
+                       "sha256":  "a2c1a798fdf3906affe80bb006883f7b90e97a9138b1dd86d77f68fb20d6d820"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v019",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v019.png",
+                       "sha256":  "fe19eb089f1903c664892de4755c744023756643ac8aab5e7222444a5b679cba"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v020",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v020.png",
+                       "sha256":  "3ccb5e23c6fe77effcfcc84e9be6b0b0b93f5a0e63f083434ffc07df421b845a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v021",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v021.png",
+                       "sha256":  "de32ad96cbd73bb3c0dc38fdeba96b8dd5a466f4bbc406a9a9ab5d8d0a3b3a71"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v022",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v022.png",
+                       "sha256":  "b2e329bae679a6b7b4224408ed41657615194c0b4edcfccfe23949a56b7e0fa7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v023",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v023.png",
+                       "sha256":  "522db696cdb6a788216b36799ce001f8b05b3ecacb87f37531697efc7c74474e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v024",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v024.png",
+                       "sha256":  "85ae2bb2421aea8a4d891dc8c92a81f560ac865b04b14b2fa0a4717dcbc3e60a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v025",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v025.png",
+                       "sha256":  "de8cbff806a97784517f9cd32c3be80d115550dcad6d0f7d00e095a1709e815e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v026",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v026.png",
+                       "sha256":  "4ae9c203b1375dc995e11191e9b07ed1a75ced1f4560ea05ca0631525ea1bcb4"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v027",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v027.png",
+                       "sha256":  "66b271ebadcde10e53d0a8dee81c9bd651aba8d0a5f36891b5c3e942b53e94c9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v028",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v028.png",
+                       "sha256":  "418812188138c383d3c019d7065efbd5d237c1b2af58d158efa7d9d6630c391b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v029",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v029.png",
+                       "sha256":  "37aea00550734a748f3b2969a46d0dc36a4b354876921efa25d784a1d6f15c89"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v030",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v030.png",
+                       "sha256":  "33025e983a4bb8c1c4767bb60f705d27ae8f292504cb952daa9ceba7790ad086"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v031",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v031.png",
+                       "sha256":  "87e4db66899add5ba45ffe47591a909d0219ac166e9d45b3fbaa75a1e8dc9483"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v032",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v032.png",
+                       "sha256":  "1cecb4d86e5ecd1c0fe8d6a1e0bb8e6cbef9cd4aceaf429ecb143e942cd5caaf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v033",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v033.png",
+                       "sha256":  "347cf13d9e549fd724560c4e5be1909d5e4b7742eca220ffc033541147d18949"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v034",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v034.png",
+                       "sha256":  "c7d44d4c1498dd9d5ddf3fb9e8c07ff2d0251cb2c24e01d68489e35310870e64"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v035",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v035.png",
+                       "sha256":  "04dd1f9caa29b8992bea2c527a638ac766713a29da829d9394693396402fd475"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v036",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v036.png",
+                       "sha256":  "8e7897c939a390fba9f3268d49259d2659113faf41e807b710cb9dc83d4faf8c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v037",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v037.png",
+                       "sha256":  "87d34a2a92cf154045b4a9176d4cd56494e84ab3b159ac4f7fb6b4a438902d60"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v038",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v038.png",
+                       "sha256":  "eb4d1f7cd793e1aaa53dded3a216309e451c4b60178e65b5edbdd564e30307af"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v039",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v039.png",
+                       "sha256":  "0864b14d60eec760f53213dda8b599816c5db1bd7b542e6c0493e7335943b5ac"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v040",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v040.png",
+                       "sha256":  "fa087d65e75ab5dc0b8bcb9cd08725324d1d444e4027023f1b6736e05165d1e6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v041",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v041.png",
+                       "sha256":  "2613a6edb03cdb2de24750a9795649fd56a3f7e4fe9e5e2da3d3bf9b685a1f36"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v042",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v042.png",
+                       "sha256":  "8c4538518617855df3d3f8e753d2a121098711c6848b5c07b7ee712a5e050fb2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v043",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v043.png",
+                       "sha256":  "34c70aefb0e75fc56b01b54367c586c9dacc17c38731dda3487d400a2851d968"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v044",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v044.png",
+                       "sha256":  "f05f494a4c82a4a3905462985878ee5f2b9ae7da90066d5d0a44045fb985c81e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v045",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v045.png",
+                       "sha256":  "900d979edd4ede9e5d52fecb4378916aa53c0a86472928519f67bfca744e8d91"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v046",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v046.png",
+                       "sha256":  "5b2358f75dc65c550c69818778471e1758156930ac612f2447c82b9b51d974c3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v047",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v047.png",
+                       "sha256":  "f054d06c314979b2e8a1f590c8dd83d85a49b2c10d5f1fadb24b6926054ed1ea"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v048",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v048.png",
+                       "sha256":  "ee1c8210d502a6f63ef3d45840d25eabc0ffe986647f86e7ab5d9c19f3defb7d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v049",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v049.png",
+                       "sha256":  "18c857c77a83b209fd546fdf7c3e4c84f1adf5a8736b97cd7e3acdae30afb2d2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v050",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v050.png",
+                       "sha256":  "0e681ca46e060155c52c8f38877219cfc68b834848f39b631cef63e293f26eae"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v051",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v051.png",
+                       "sha256":  "c5c69b9976a5cd11c2afb2826a359c7f6ed3929f13013fbbe6de9313f0af5059"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v052",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v052.png",
+                       "sha256":  "dff67866c42091614b35701d8e7433cce29b099633532269d5b3abf7372a5004"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v053",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v053.png",
+                       "sha256":  "67832e29997e765b16e51c3f2ee1577180534d34f9db523ca9316c81bacf528b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v054",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v054.png",
+                       "sha256":  "f12995646a379fb554369c4ee1f8ec8b3e95ab6830186a0cb59948f5923c9ec1"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v055",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v055.png",
+                       "sha256":  "596e6d3a0b318118b5d7b0d0f27452a4ea651d166d40cb77f1f1c4d35b0fb970"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.cave_dungeon.v056",
+                       "file":  "cave_dungeon/fantasy_neutral__cave_dungeon__v056.png",
+                       "sha256":  "faafec256d22a23aeeb9037f12e65038c8a5f8944398e9f7d10e37f4d4b9d6f3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v001",
+                       "file":  "crossings/fantasy_neutral__crossings__v001.png",
+                       "sha256":  "ee72ad0cffdd19a6bb41557533caaacceb41a1bd0ecc0417f81e6bedd9026a6d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v002",
+                       "file":  "crossings/fantasy_neutral__crossings__v002.png",
+                       "sha256":  "d5598f7f96b6a9ce06e2fcd4df43d2e0ad72fc56f33fdb23325aa58a6610bf06"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v003",
+                       "file":  "crossings/fantasy_neutral__crossings__v003.png",
+                       "sha256":  "c5dbcf5c3f70868bcf806cc8bb6a1c0296b1c611febbfdef3ef547c91ae1fe7b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v004",
+                       "file":  "crossings/fantasy_neutral__crossings__v004.png",
+                       "sha256":  "7109bed0a3787a5731dfe3bff69eb6d66ed15ad6e1ba100f5e034b31b6baf959"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v005",
+                       "file":  "crossings/fantasy_neutral__crossings__v005.png",
+                       "sha256":  "81c6d53fafc9556221b9d89a5b37253cfa35b32c5b458da8a0ff3af03e86481c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v006",
+                       "file":  "crossings/fantasy_neutral__crossings__v006.png",
+                       "sha256":  "29a3bdb8e4d2a62952944803bee58b25c8dd3252a61b4615afa0b35c38af7b7b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v007",
+                       "file":  "crossings/fantasy_neutral__crossings__v007.png",
+                       "sha256":  "b203515c249fd53d856d44af854de5d096fd44af32c82c3f584fa89f556bec08"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v008",
+                       "file":  "crossings/fantasy_neutral__crossings__v008.png",
+                       "sha256":  "ed4c716f35d31f2ecf37f3b9fe79a090b81c1904c8b03dc760fa40ecb703b1cf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v009",
+                       "file":  "crossings/fantasy_neutral__crossings__v009.png",
+                       "sha256":  "a78339ad899dce93c2de895b978680caa9ae5e7a869ce798fbc4066dbceaf17b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v010",
+                       "file":  "crossings/fantasy_neutral__crossings__v010.png",
+                       "sha256":  "1a8acf490a41e4c2d08c284ff8702473013cb60dc9b252e021275db009ef7650"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v011",
+                       "file":  "crossings/fantasy_neutral__crossings__v011.png",
+                       "sha256":  "d30a1a7b03b6d3fd4b9a7903bb0028ab1d3b13ff43b9ee82f3143acfa936ed0d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v012",
+                       "file":  "crossings/fantasy_neutral__crossings__v012.png",
+                       "sha256":  "47fac4547fd04614576e8b694bfd18d41a9c2178f3a71e97d5d89d4f3b6fa89e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v013",
+                       "file":  "crossings/fantasy_neutral__crossings__v013.png",
+                       "sha256":  "dcb14b9be6c74127fba37fff64b9a1634252aebf4919c2c42158554b870a7cfe"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v014",
+                       "file":  "crossings/fantasy_neutral__crossings__v014.png",
+                       "sha256":  "f44f89565de42c9ff1cca81ce2a698f5f321944f19d8e1145355d2a4ec09b8fd"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v015",
+                       "file":  "crossings/fantasy_neutral__crossings__v015.png",
+                       "sha256":  "90f3cd7c5511c34ef60278469c398e4b1a3ac7ba2a99149f0d4f5013b0afa943"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v016",
+                       "file":  "crossings/fantasy_neutral__crossings__v016.png",
+                       "sha256":  "5641156df4f205ae66190b1089b71fcd4e145d5346bc4cdc506561da56c81d1d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v017",
+                       "file":  "crossings/fantasy_neutral__crossings__v017.png",
+                       "sha256":  "b3e0cedc5e4507af00da00b812a07b73424f47ede170dd504757a53288859e07"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v018",
+                       "file":  "crossings/fantasy_neutral__crossings__v018.png",
+                       "sha256":  "70f9aa8fcf1653f39ac2f926f73fbe48c423bf0be541c704d60ec768a7e65e94"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v019",
+                       "file":  "crossings/fantasy_neutral__crossings__v019.png",
+                       "sha256":  "c57250a0081fcd11962454f589c046844c7508946919642e23ebcfaf99cb3778"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v020",
+                       "file":  "crossings/fantasy_neutral__crossings__v020.png",
+                       "sha256":  "6c1097ec6db4570265cef8b62c8fb7bda654d76eb373598007014ab9c31c3b47"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v021",
+                       "file":  "crossings/fantasy_neutral__crossings__v021.png",
+                       "sha256":  "0dd86fe5ef3979a76e9cb85168c306399627abfdd18e0c0f136da12a30fe5407"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v022",
+                       "file":  "crossings/fantasy_neutral__crossings__v022.png",
+                       "sha256":  "fcba55a6c354b73a720a52f92757de44bb76cbc4991b53601dfe4a5642c3792c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v023",
+                       "file":  "crossings/fantasy_neutral__crossings__v023.png",
+                       "sha256":  "3b4997ac0db3c7534567d7e0a534437a244228968a3ca78bcde23addc7af1034"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v024",
+                       "file":  "crossings/fantasy_neutral__crossings__v024.png",
+                       "sha256":  "a14ddc995f260cdb54d878e81363678dd18318ad26bf785d4d79eae900b64983"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v025",
+                       "file":  "crossings/fantasy_neutral__crossings__v025.png",
+                       "sha256":  "a8a79f742f50067be4a272641c7052b65f63b2b275c12aa67cf157e7ebd4f6ed"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v026",
+                       "file":  "crossings/fantasy_neutral__crossings__v026.png",
+                       "sha256":  "3e9e2b963e72a5f23eba4223e3584945d6430d270bf62256423aa0f30136d4bf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v027",
+                       "file":  "crossings/fantasy_neutral__crossings__v027.png",
+                       "sha256":  "714ecde67870b6cd9245c1fa7bbf1f4e5f85e391fa199185f64048987c7c324e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.crossings.v028",
+                       "file":  "crossings/fantasy_neutral__crossings__v028.png",
+                       "sha256":  "025fba12782b0c4bd552875aba59dcfef02555cdcd9ecd3c7b8469732dfead3c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v001",
+                       "file":  "landscape/fantasy_neutral__landscape__v001.png",
+                       "sha256":  "2d2418342aa80c2f26e3a48120c86ee3e687d696140cebb117068f684b8f922d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v002",
+                       "file":  "landscape/fantasy_neutral__landscape__v002.png",
+                       "sha256":  "6d3c7cda79a2a755d551bd7948d7620b886baea37288f415be85c458376c794e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v003",
+                       "file":  "landscape/fantasy_neutral__landscape__v003.png",
+                       "sha256":  "ad3d31d4cc0c286889bc3e3791dfcb246e11903726eac1729231aebd3ffd7ee6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v004",
+                       "file":  "landscape/fantasy_neutral__landscape__v004.png",
+                       "sha256":  "3f35b73c0bc8b6a0d9f8c88500de842f629e296674488f674ddf5326b09be2be"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v005",
+                       "file":  "landscape/fantasy_neutral__landscape__v005.png",
+                       "sha256":  "9fef90faafb4738d6a560b63015dcdf41c8d3243697990fb2a7c0e8a16602616"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v006",
+                       "file":  "landscape/fantasy_neutral__landscape__v006.png",
+                       "sha256":  "c07c837eeefd70331767a03da7752f453c308ed25400c3f23b96c231e3a3da9d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v007",
+                       "file":  "landscape/fantasy_neutral__landscape__v007.png",
+                       "sha256":  "58e36ea488b1be6ff08db1f33cba847d55a54b85aa369203b64605c2a1236350"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v008",
+                       "file":  "landscape/fantasy_neutral__landscape__v008.png",
+                       "sha256":  "93c3a7d830b3dda95054ae9192f7bacf0271f5691a152091401f4c49a2e80723"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v009",
+                       "file":  "landscape/fantasy_neutral__landscape__v009.png",
+                       "sha256":  "8a6e9b29725cf9c91a6be742246fdda9ade024214148c03e2f2a841991a2f366"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v010",
+                       "file":  "landscape/fantasy_neutral__landscape__v010.png",
+                       "sha256":  "a7e30f0e094f7053edb2a8b9b0ac5ac48398d688a3cab8f893a28ef68cc4b3da"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v011",
+                       "file":  "landscape/fantasy_neutral__landscape__v011.png",
+                       "sha256":  "2c9846ccfde4afe3127c9d6058c78c4e27e195a6104f36337c7c085877c791cf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v012",
+                       "file":  "landscape/fantasy_neutral__landscape__v012.png",
+                       "sha256":  "569a807a66b66e7309ad6a78279b133173ef3743acdfeef1138f6abc7dd2938b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v013",
+                       "file":  "landscape/fantasy_neutral__landscape__v013.png",
+                       "sha256":  "a6f988ecaafac5117a647df6316f00fad8ca57e4f8c0b48d32e9db446f8eb7d9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v014",
+                       "file":  "landscape/fantasy_neutral__landscape__v014.png",
+                       "sha256":  "94f159a9fd4b299b3ee951e680064c7ed820978a35d71970e7bc546d8b81d039"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v015",
+                       "file":  "landscape/fantasy_neutral__landscape__v015.png",
+                       "sha256":  "079d7787b3464b983e218578f25e8ae0c1bc2159a0dbc0fc69910066008d1643"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v016",
+                       "file":  "landscape/fantasy_neutral__landscape__v016.png",
+                       "sha256":  "e20bd8629ae6f7ede9c0ad1ba381be753c82112314245905925de3159217ca80"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v017",
+                       "file":  "landscape/fantasy_neutral__landscape__v017.png",
+                       "sha256":  "c1a27f225cbcada6e3e575f8fbb8a2d94071f8d5611aca8eaf49c51893b32e9c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v018",
+                       "file":  "landscape/fantasy_neutral__landscape__v018.png",
+                       "sha256":  "a7d02cb5c13ba0767851ace7595835b5ff20b1f6942480a4c7b1b1a9e59ef6f7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v019",
+                       "file":  "landscape/fantasy_neutral__landscape__v019.png",
+                       "sha256":  "71df9ad7b2c75410fc4714c9e3d76ae017f1489562e2ecffdfc2790dbb924ad9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v020",
+                       "file":  "landscape/fantasy_neutral__landscape__v020.png",
+                       "sha256":  "f2bf1a6e1fb18fb6eea10bdbe8af70e6987913391a1a449f1c07a7c4c5c7f4fb"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v021",
+                       "file":  "landscape/fantasy_neutral__landscape__v021.png",
+                       "sha256":  "0543aa5d27e68b325ae275929f756e5f62e54dfc393980e7f2a05c38a2a1445d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v022",
+                       "file":  "landscape/fantasy_neutral__landscape__v022.png",
+                       "sha256":  "c1847e70e5b60ca9127558b3bc8679f16c5ee48104ead85d0c3253ecc595355d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v023",
+                       "file":  "landscape/fantasy_neutral__landscape__v023.png",
+                       "sha256":  "0065e838dc9e2d018c19b9a7fcb471899c27da114685c409b3d14272938effe2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v024",
+                       "file":  "landscape/fantasy_neutral__landscape__v024.png",
+                       "sha256":  "c1f411abdb9df85994a3883488403ba75bcddfd528246698de89c720b136208b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v025",
+                       "file":  "landscape/fantasy_neutral__landscape__v025.png",
+                       "sha256":  "16ccb751cac2ca59ad71ea26dabd5672dd80a3bf0a4285c9a7ff5cace12deabf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v026",
+                       "file":  "landscape/fantasy_neutral__landscape__v026.png",
+                       "sha256":  "64403c3170aa38225f2917e00147f1d5a4bacdb312044320ab167abd9c8784f2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v027",
+                       "file":  "landscape/fantasy_neutral__landscape__v027.png",
+                       "sha256":  "ecbbbc4b6b669be127a8d0659873cbd0f6f3e841bbd67a1677bb6ce913a8b731"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v028",
+                       "file":  "landscape/fantasy_neutral__landscape__v028.png",
+                       "sha256":  "9ab01ac416c13900435c68412e717164702ec146b22e0208f2a765b9ab3d8a36"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v029",
+                       "file":  "landscape/fantasy_neutral__landscape__v029.png",
+                       "sha256":  "1b54a987061664cc6cdac44fb53c3faaa3f69d378559ff7287401e3d3e2b4df3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v030",
+                       "file":  "landscape/fantasy_neutral__landscape__v030.png",
+                       "sha256":  "943cd55dd2e5228272ea4eb7a4778d33b710b9e562292f29a7a495b798980f30"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v031",
+                       "file":  "landscape/fantasy_neutral__landscape__v031.png",
+                       "sha256":  "41698eb030df88397620e0e0a43a2e46fffa24486f99156dcab8b7170506bba2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v032",
+                       "file":  "landscape/fantasy_neutral__landscape__v032.png",
+                       "sha256":  "2d8777ee6f579173a6fbb6d89583697dd5a9ab8676ad021e4fa9603890068da9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v033",
+                       "file":  "landscape/fantasy_neutral__landscape__v033.png",
+                       "sha256":  "d103a2932cf6f2faa833e59ab164b79331f64993072099a70adce6b0370c15a7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v034",
+                       "file":  "landscape/fantasy_neutral__landscape__v034.png",
+                       "sha256":  "ebdfc652ef98f3071a6a2ca0a0650c2e1d10ee54511cf7cf38140b38525ef680"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v035",
+                       "file":  "landscape/fantasy_neutral__landscape__v035.png",
+                       "sha256":  "ff61ea60fa9884342cd006f3353fc5b4e53f58aeabc7080d1f8f0cc984a75c21"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v036",
+                       "file":  "landscape/fantasy_neutral__landscape__v036.png",
+                       "sha256":  "aa4edc760de219fb21b0f08da6c62bce22161c7f4325ab7a4e527542a641dba9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v037",
+                       "file":  "landscape/fantasy_neutral__landscape__v037.png",
+                       "sha256":  "f86ef50f881cb768dd5d1df1c3689d4012dd48255cccbcfe50e66328c2957b3e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v038",
+                       "file":  "landscape/fantasy_neutral__landscape__v038.png",
+                       "sha256":  "589d292fd2e624787e35dca9f07db6c5b8ecb2229e1365cdec04b68540873441"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v039",
+                       "file":  "landscape/fantasy_neutral__landscape__v039.png",
+                       "sha256":  "c9901aba3c1d740d31404b95387d4d5d7861b05e315651c044bf941f78df76e5"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.landscape.v040",
+                       "file":  "landscape/fantasy_neutral__landscape__v040.png",
+                       "sha256":  "dcb294c20fde5af1f7af5a9ad693a10a574cd21d16d3030af589c3d50c62bdc4"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v001",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v001.png",
+                       "sha256":  "cbe0e017a05a3b7119bc290c751ce9b1d9244c4fdeca376717f24e6f8fcdd3b9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v002",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v002.png",
+                       "sha256":  "b798c961483faa58d57356cc757f706301bbd6da6003b5939763f87ab6b2663e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v003",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v003.png",
+                       "sha256":  "0ae7421f320dea81b2e881acbf4d88c78c3a42de275b87b2507653def7cf9cc3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v004",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v004.png",
+                       "sha256":  "0f2afd681aa9d6a0fa234ab9f25264b7fdbaca38d1ad8e0b828489b012148298"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v005",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v005.png",
+                       "sha256":  "c7090b5d2ea7582e5572abb6677591a07f246a4916024221c82b6622d88e912f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v006",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v006.png",
+                       "sha256":  "4a9649e2b6fb4d7a60f3fe30e0284c3f7e45f9156bb1566652d4a5738ff4e161"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v007",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v007.png",
+                       "sha256":  "17a3c736485f72eecee29e7dd81a53374a797ba84bdcc79703dd1c20067ea8c9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v008",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v008.png",
+                       "sha256":  "1c1ca501f647d76bf6cf32f800ace13f76d2ba901071050efa04e00a039784af"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v009",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v009.png",
+                       "sha256":  "49ac3567c65d0250f00fdeab0b48015f10f1c8ab87d2f4d74962875a3b274552"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v010",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v010.png",
+                       "sha256":  "f36694af37122177b8d6c720f5c5e6148977c035fbde18deb12ab75c29e20f02"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v011",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v011.png",
+                       "sha256":  "b2fb29cea3fd56e960848fa87f63f58a62703ca716ed7648f22b4c80379ecab5"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v012",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v012.png",
+                       "sha256":  "6d77f1dac1963e8fd31dd019567b2713f626f4afe23dbad049cebf9739c17b61"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v013",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v013.png",
+                       "sha256":  "85375c8510b16aa7fa976df1bc5cc8a334fd27098601e153aefcbc53ab29cf1e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v014",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v014.png",
+                       "sha256":  "ac7aae31029e35c50303fd2234bcc64fae585c609c241998e2506c5d0f57e49a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v015",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v015.png",
+                       "sha256":  "1e36efa19b79418a6730de9981217ebc3189fe7f3949a47539ddd6a688ccdc75"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v016",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v016.png",
+                       "sha256":  "d970641456ad18aedc50f7088d8e588912b10e1874d1fc7f805724f04d430f48"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v017",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v017.png",
+                       "sha256":  "11ae7bb7520a4e33ac8531bb308cde13e6e0b8cf8b45bfe8e7620e2e7c37232f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v018",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v018.png",
+                       "sha256":  "27cf8e04b9fc7a4324ed09d23b56cca45aeafc0d73c54352fdf9f9e91f4823e5"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v019",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v019.png",
+                       "sha256":  "4a785bd3027e25d16dbe185c0660b626c6806bab691cbbbf7c3cec59173ed9b9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v020",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v020.png",
+                       "sha256":  "f599330a4901f4bc2774fd1840d953f7733cb1cd46fc0c5462638b5463b1e54b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v021",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v021.png",
+                       "sha256":  "5afee7648258e9ef67530f6966b3110604bdf7e3eb29fc09980be131e4f6f7cd"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v022",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v022.png",
+                       "sha256":  "ed1d5131ef5fd8cb93339a25e75e61ad875ba94442d6150ba07eb26feb380675"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v023",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v023.png",
+                       "sha256":  "964633989e643399a93e10e4b1f74daa5aed0d431181587141d547a2382144b1"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.map_symbols.v024",
+                       "file":  "map_symbols/fantasy_neutral__map_symbols__v024.png",
+                       "sha256":  "c1b2545e290132c79aa0fa6820fa1747eb528f381235972922f333445e5026ee"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v001",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v001.png",
+                       "sha256":  "e0081ded2e5a1879b2acd2712e8c6cb43d2653f2256b060b231e2608932a73e1"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v002",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v002.png",
+                       "sha256":  "72a2721fd321ddda610165dac75300940e1dfeb923bf0a6e707b78a59e023246"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v003",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v003.png",
+                       "sha256":  "2025922078d8e296d36152c53508e6c16866f265ad2ed53c2023860b19604ed2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v004",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v004.png",
+                       "sha256":  "5c67022250a36f8b6b67884e59fa3c30617015511fcb48eade8f691afe8db22f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v005",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v005.png",
+                       "sha256":  "c1feffde9e74f0e6e6cc2847a80a2ab28bfbce5d72d056f604bf40d3f46a71d6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v006",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v006.png",
+                       "sha256":  "1267363a38e729ce63ddc1c7bb620e4897da7c5e22afb80cee2b18ad086f0189"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v007",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v007.png",
+                       "sha256":  "159ac3574b596be34de7d5ac26de6f367e31195e93738fd4eb448d7dd062382f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v008",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v008.png",
+                       "sha256":  "87c8977ec6223f19500f6502c57e5df8aec9ed8539bc3127ab627376b59f60fd"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v009",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v009.png",
+                       "sha256":  "2e767a3b47a7fe83d0aaaab30b36634336b0177aec35c79c931f9ab894eedc98"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v010",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v010.png",
+                       "sha256":  "53801231b7d12a5cacebf8c9dbcc84d90ff372e6e02a2069cedd26b84c1dbd50"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v011",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v011.png",
+                       "sha256":  "230940fe51bda9ec4a6c043303b55ed6e47a56f224a6bac72c069060f2d8c135"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v012",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v012.png",
+                       "sha256":  "763fe4dbb57f48d58996a1e98b0948fcae469759db90ed5a6c1630a18262fc45"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v013",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v013.png",
+                       "sha256":  "2c17af514e55054dc1fa5bf4e783c97675bd10c42129cca21eb95029140aa876"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v014",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v014.png",
+                       "sha256":  "dd134fd9464832d9701c1628c9edc0393be265563573f83457cd68e696f1881f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v015",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v015.png",
+                       "sha256":  "e2be23768dd4f4c9384d97d2e311084945bf224395d5aecc4035ecca17c35b35"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v016",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v016.png",
+                       "sha256":  "c07241367a92b88ef06faf5110bd52318f618e401ee60b3736966e1463b7515c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v017",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v017.png",
+                       "sha256":  "15eeff12d95baad493abc69bd1c309c806e2753816eea79b05e0d899c84616e2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v018",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v018.png",
+                       "sha256":  "219a1bd47d463c94794eea1c570aef91d388ce1fa56993747299589e10982396"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v019",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v019.png",
+                       "sha256":  "be19cab8e0a208a99aa6017e2807c880aa13304f255f8c25c7f0c03c7d03f19e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v020",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v020.png",
+                       "sha256":  "435b1ef8bfada2ee1dc1d593cd0918ebabce605e2f8810e6ccc084b9018cc7e6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v021",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v021.png",
+                       "sha256":  "90af15b01d0435cf21f37e00a0e63515a995d5d49032716d5ab550c03c4062f8"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v022",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v022.png",
+                       "sha256":  "47b3fabecefac530c5949d1a41ab67735ee19ef845a064c6f9ee634d8607db00"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v023",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v023.png",
+                       "sha256":  "7d4ffab5eb2d255be98d6d23b976e09065d6c29e99999ca18a871b41de061fb6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v024",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v024.png",
+                       "sha256":  "f8c276e38389413d5615d12e87a8ff6d5c619e078de37e2d8df9ef5cad56f406"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v025",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v025.png",
+                       "sha256":  "7ac92bfe68d7ac9286152faf58b7ea93ea2027cf5c7d93cfd4faef00cf48fe72"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v026",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v026.png",
+                       "sha256":  "e1de7163912b0ea68a77e619d99cb612ba68c2417994e242d25b87ec12bd422b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v027",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v027.png",
+                       "sha256":  "90956a1e0359616d86b903d641f4ea62c3d25a63cf9638fa1de01fbdb8289f64"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v028",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v028.png",
+                       "sha256":  "139e139692aae00cf5345fd4010a5b80bdaad426b8da96d1fc56717cd63ce6b6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v029",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v029.png",
+                       "sha256":  "83e2ee0fb8d29cc70bd68b877ab9d4d4f3485cc5ed4b1ed6398c517fea8b5a37"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v030",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v030.png",
+                       "sha256":  "8de2aacacaccbff76e7822764e81999d25075bf99ba308847f1ad4b0b9521a75"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v031",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v031.png",
+                       "sha256":  "32d96203850e23290d473a358ec1c9d987d457748bf7ba4fe9b3de93b76b48ae"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v032",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v032.png",
+                       "sha256":  "87f0da3678bda559423bd441feabd27ceed48c5b11e73efd288976f2fd6e7c3c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v033",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v033.png",
+                       "sha256":  "6c7d3396b76c3cd4a923e3f79dea78a35edb816fdd31106262679e99364cb705"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v034",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v034.png",
+                       "sha256":  "1e4cab943107191cf95fb0592ec289a3443b1e4a064f199757f0dda36a92b132"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v035",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v035.png",
+                       "sha256":  "36cb43491b360a2f72f20df09093f0d6cbb9c8370583bc66482f89ef4bf4fbad"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v036",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v036.png",
+                       "sha256":  "53c8913f00576ca3670ef3d7aec550c78a673234bb91526f088a7523e6ce4afb"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v037",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v037.png",
+                       "sha256":  "9151751c9f3338fad3502188784f26bc7b6d3030486bb9adbf4ad4d49d5554d9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v038",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v038.png",
+                       "sha256":  "a6e95ac04a80f34932cb38073fc1ce732303ec655decf8590a8b89d59f11023e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v039",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v039.png",
+                       "sha256":  "c2b3c32978ef3a99102ef1b6e1831513b7acf9574bb379db835b7c055c2eceb9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v040",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v040.png",
+                       "sha256":  "9e143993308d8a3ce764dc8908c9339ff725b33e68f47b6779f621830dbb74c2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v041",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v041.png",
+                       "sha256":  "35c5166c5462c89b35cba542eeec14cddcf33cfb1b748ef76ee445e592f3c1a4"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.roads_rivers.v042",
+                       "file":  "roads_rivers/fantasy_neutral__roads_rivers__v042.png",
+                       "sha256":  "cd673bdf7a353dbc6d21a3098a6bfbdd7a4b64e7b8df263e2aa8b9b4df58b0c0"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v001",
+                       "file":  "settlements/fantasy_neutral__settlements__v001.png",
+                       "sha256":  "f845ec620958adfb6c6e160c1c5a5d21e8da487dffa0f60b42382e0e519e5210"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v002",
+                       "file":  "settlements/fantasy_neutral__settlements__v002.png",
+                       "sha256":  "ce10ba3526c5cfb2d92041d7ca406cc5b14130ace26761bc715d849cdc1e01ef"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v003",
+                       "file":  "settlements/fantasy_neutral__settlements__v003.png",
+                       "sha256":  "f2b1e5967e59316342de2069cddd273fc08cad86ea6adecf7afb5c7228e7b8e1"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v004",
+                       "file":  "settlements/fantasy_neutral__settlements__v004.png",
+                       "sha256":  "980a67dad3da59788ce0f285756eb56a0d7068e422f5696ac94cd763b7c6ec8d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v005",
+                       "file":  "settlements/fantasy_neutral__settlements__v005.png",
+                       "sha256":  "ee8cbb5b7da2ef27e96ecd94c44d03f4f07aee1f566ce0ef5588dbea72054234"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v006",
+                       "file":  "settlements/fantasy_neutral__settlements__v006.png",
+                       "sha256":  "76de0d777b265b6d4461f2914c8eaa338ff3534072d81d379d0228d794be89de"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v007",
+                       "file":  "settlements/fantasy_neutral__settlements__v007.png",
+                       "sha256":  "34ca870aa4c6d054da22b2f10a87965f0165523e1d7fd0d3f197a9e8973df55b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v008",
+                       "file":  "settlements/fantasy_neutral__settlements__v008.png",
+                       "sha256":  "a0fb8a8347d399d5dfbf3e855cda772a093e518b9e3d828b9addfe3b1f529dbf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v009",
+                       "file":  "settlements/fantasy_neutral__settlements__v009.png",
+                       "sha256":  "212f090180a0ca1e3f928389c68ba7d8f6bcfefe58a2d66045f3fcff53517794"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v010",
+                       "file":  "settlements/fantasy_neutral__settlements__v010.png",
+                       "sha256":  "c16e7e63af41ca0dca45cef95203e80761158d2630c5fd2bf741514940df02f0"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v011",
+                       "file":  "settlements/fantasy_neutral__settlements__v011.png",
+                       "sha256":  "bff12b36749ed2ce37b08d9a27019257121b49900404d3db704f94a6a97e493d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v012",
+                       "file":  "settlements/fantasy_neutral__settlements__v012.png",
+                       "sha256":  "6a45cb301f6e1d0e73f61b67a801a0d504cd30ef96ff2f47997c94176141e4c6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v013",
+                       "file":  "settlements/fantasy_neutral__settlements__v013.png",
+                       "sha256":  "68d6af25872774aec78f8c0a06d14b0491aad14dcddd89a6c6995d04b69a1b96"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v014",
+                       "file":  "settlements/fantasy_neutral__settlements__v014.png",
+                       "sha256":  "7d237ce9d806aa275cc4db4eeb356683e1586542cb579fe28cda9fa56ff30f00"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v015",
+                       "file":  "settlements/fantasy_neutral__settlements__v015.png",
+                       "sha256":  "c29de90cf4a960569be7934151588fc9e601682ceaa531460194bb118fc6541f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v016",
+                       "file":  "settlements/fantasy_neutral__settlements__v016.png",
+                       "sha256":  "85dc19b7b668b96fd18234f6eaf71d81a94a1015705c9bdb326e134befa1daef"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v017",
+                       "file":  "settlements/fantasy_neutral__settlements__v017.png",
+                       "sha256":  "29cf78063a07070fc76aa734831f4bf49b88ef8cdc7e7e8edd7557f5bf7f1f4c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v018",
+                       "file":  "settlements/fantasy_neutral__settlements__v018.png",
+                       "sha256":  "642dd98d9851c76a22800a0e39650c02c187ea95e17542a43151979868f35f59"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v019",
+                       "file":  "settlements/fantasy_neutral__settlements__v019.png",
+                       "sha256":  "7b56d425e6694339d4f9e9f78a79f2d1178d861f27424af4837536532d6a627b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v020",
+                       "file":  "settlements/fantasy_neutral__settlements__v020.png",
+                       "sha256":  "19b22b12e6835eea5cebc6c76dc57df836ac2957c8cd6b1e01b8fc6150cd7f41"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v021",
+                       "file":  "settlements/fantasy_neutral__settlements__v021.png",
+                       "sha256":  "cd16211fa4607ed0740f4f31860f45a322c1b40f3032698311bbead2a9a07253"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v022",
+                       "file":  "settlements/fantasy_neutral__settlements__v022.png",
+                       "sha256":  "9d4292ed329c985f0cb57bf4abd50d98a5f0195e0e833722d89f999c5df43ae4"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v023",
+                       "file":  "settlements/fantasy_neutral__settlements__v023.png",
+                       "sha256":  "fb2e711a4d693878af3861b954a5115deba06697e4deaa557668afe30754bc06"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v024",
+                       "file":  "settlements/fantasy_neutral__settlements__v024.png",
+                       "sha256":  "4b871955a0e88050bce25aadf86575a9dffad4ee77bcae7dac41c0d2f64df03c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v025",
+                       "file":  "settlements/fantasy_neutral__settlements__v025.png",
+                       "sha256":  "1c6a0dd680b021127d9a90e20918a5acbfdd71e550662f7b17b058f3a4f28083"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v026",
+                       "file":  "settlements/fantasy_neutral__settlements__v026.png",
+                       "sha256":  "92b473c8568b91fd01f71eefbb88b6d23520058b61963059a0b03ab149931894"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v027",
+                       "file":  "settlements/fantasy_neutral__settlements__v027.png",
+                       "sha256":  "11462aa40bd765e6fc9d45cc051a595d7c6507605d804776df8112e4ab5b8af7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v028",
+                       "file":  "settlements/fantasy_neutral__settlements__v028.png",
+                       "sha256":  "22002aaa217508d41da6013309a1115adf4bb45ccda120b339067cb016e39d9b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v029",
+                       "file":  "settlements/fantasy_neutral__settlements__v029.png",
+                       "sha256":  "ab302953ef191f0d14f30c33b39ff961aaf6fd40b643e219c8046b9beac9f33a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v030",
+                       "file":  "settlements/fantasy_neutral__settlements__v030.png",
+                       "sha256":  "39fa2f8d208aa4bc1be337780ac99e9b9993aa9efa52a8ef285f76eee6ff17f5"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v031",
+                       "file":  "settlements/fantasy_neutral__settlements__v031.png",
+                       "sha256":  "ae23c37983542d7b7597ebfd354846420d7b0a6b4e1a0f86427e3e8587331bc3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v032",
+                       "file":  "settlements/fantasy_neutral__settlements__v032.png",
+                       "sha256":  "c22c653add0eca46d0d6b7a4a37ce718dd92f236626a33312e6135d75427e5cc"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v033",
+                       "file":  "settlements/fantasy_neutral__settlements__v033.png",
+                       "sha256":  "00a9e90c26b7bbeccf38c84d34e476d28106e49c43d3fbd5d51abd9a9fb47dde"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v034",
+                       "file":  "settlements/fantasy_neutral__settlements__v034.png",
+                       "sha256":  "bc7efd85bf9280bed23b1c23fb2f7770a92bc49365d30ccfbe32e4bd4e8c9cc7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v035",
+                       "file":  "settlements/fantasy_neutral__settlements__v035.png",
+                       "sha256":  "b95d2facc28462869912163e4153e5db20c9a624d173d43bc1295b19c1fec41f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v036",
+                       "file":  "settlements/fantasy_neutral__settlements__v036.png",
+                       "sha256":  "fbdcdabf3d2931d1a5dd585471d8b33c7d6ec8f5a2bb7b0e2578e2fabbc45ada"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v037",
+                       "file":  "settlements/fantasy_neutral__settlements__v037.png",
+                       "sha256":  "4ccd05fbac3a919d078bc3ea34db1b9daf6579b10bbb76bbc51ff439be808a8c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v038",
+                       "file":  "settlements/fantasy_neutral__settlements__v038.png",
+                       "sha256":  "8fe825dfc63801e10f8a9cf03f34c9b420944cfcdc7f7b05a24b9284c5061c33"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v039",
+                       "file":  "settlements/fantasy_neutral__settlements__v039.png",
+                       "sha256":  "c5a16b55059df9b434f6383cb8a1b48b7a930745ff28811650fc8303d0c21796"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v040",
+                       "file":  "settlements/fantasy_neutral__settlements__v040.png",
+                       "sha256":  "0284976b7876eac8a2ec48340d6184f859595b54b080a90dba2e71ae48b2b5f7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v041",
+                       "file":  "settlements/fantasy_neutral__settlements__v041.png",
+                       "sha256":  "688549737b1018eec0e5fc4b70a54fa1210cfb33129a9d0c7a8d06aa4db8269d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v042",
+                       "file":  "settlements/fantasy_neutral__settlements__v042.png",
+                       "sha256":  "81f8a094ad9ca76f1cbb6452c1b5ee591f8138c85fc3ef388d6f22bc97804a63"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v043",
+                       "file":  "settlements/fantasy_neutral__settlements__v043.png",
+                       "sha256":  "34ccbdcbb3c25747fc265b10dd321c3e58efac24e8b02eb2d176cddca2753c31"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v044",
+                       "file":  "settlements/fantasy_neutral__settlements__v044.png",
+                       "sha256":  "3eb16b61ead9b80d2b657d6424196223c2e4b713911a8c9f6c1a7b09222ce526"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v045",
+                       "file":  "settlements/fantasy_neutral__settlements__v045.png",
+                       "sha256":  "a4839a2b05184c0ee28f9e25e04cee4c6f0cab763d2f23a146095ecad8f08aa1"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v046",
+                       "file":  "settlements/fantasy_neutral__settlements__v046.png",
+                       "sha256":  "e5472f0b1ceb4123d14172c2df66f4b97c4a73bdc6323542df6bc512cf003f6b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v047",
+                       "file":  "settlements/fantasy_neutral__settlements__v047.png",
+                       "sha256":  "1984644cc8bfdbefd9e96f458c45495406747e5e3a42e0b7b538e24506402baa"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v048",
+                       "file":  "settlements/fantasy_neutral__settlements__v048.png",
+                       "sha256":  "8cdf8ccac0ced5cedea2e95ac12d956010c262dc0c6b2a8a01849e4bc31eb553"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v049",
+                       "file":  "settlements/fantasy_neutral__settlements__v049.png",
+                       "sha256":  "8ab7a24688b88d9b614043e1fd2a5bc0fd2ec93bb8b03431ece7b7b87b2ae423"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v050",
+                       "file":  "settlements/fantasy_neutral__settlements__v050.png",
+                       "sha256":  "78f354383c854a57e3a11320e5f92275f973145415e838faff7a52d413abb9ab"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v051",
+                       "file":  "settlements/fantasy_neutral__settlements__v051.png",
+                       "sha256":  "9a4cf9f2b0c8b15f8db8abca71f8bcced0ce82cc0922ada70d6ea31bfd3e9e23"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v052",
+                       "file":  "settlements/fantasy_neutral__settlements__v052.png",
+                       "sha256":  "48f7c3edbf9752cf7778300f3b13855a7b91aac37072a2daf071d2e94ab53f92"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v053",
+                       "file":  "settlements/fantasy_neutral__settlements__v053.png",
+                       "sha256":  "6bb7afdb4f87ef69bd414d143c0cf923f9fd31e6ca69a10c1bbe3c9d9751a2f2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v054",
+                       "file":  "settlements/fantasy_neutral__settlements__v054.png",
+                       "sha256":  "eec1f3eca872942881e84e208936a9f9aacfb8b70697d972e70a5eaa4f6a285d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v055",
+                       "file":  "settlements/fantasy_neutral__settlements__v055.png",
+                       "sha256":  "af6905c965651a95c11f0fd7b008044f1c92e739df86b94972b631e3fcfdb40c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v056",
+                       "file":  "settlements/fantasy_neutral__settlements__v056.png",
+                       "sha256":  "78ca3bf3a7217e436e8eb2f0ad787224c5f4adad1f42799eeab460a4fcff692a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v057",
+                       "file":  "settlements/fantasy_neutral__settlements__v057.png",
+                       "sha256":  "1506673bf7a15be2ea2aadbd52039f36f049f16c2754834fef7b2f2a3301591b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v058",
+                       "file":  "settlements/fantasy_neutral__settlements__v058.png",
+                       "sha256":  "69bbbf01689989996b0b15239b1cfd6bdf798d71883ce06ab4967e92d03cc17f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v059",
+                       "file":  "settlements/fantasy_neutral__settlements__v059.png",
+                       "sha256":  "235179152a781a1977501c1650c2d0b0b1344485031574b0f622039ab9893434"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.settlements.v060",
+                       "file":  "settlements/fantasy_neutral__settlements__v060.png",
+                       "sha256":  "b7aa2e1bb8d545dd937202e03d70ed9b9b656469dc543085cd2c2fdb6c409dfc"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v001",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v001.png",
+                       "sha256":  "0ed99aef1b18062868fef5b91fe81590b91a3291fd6062a9cf8c7a2943df8f9e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v002",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v002.png",
+                       "sha256":  "74d6a36a18503489d027cf12af11fc5ad828406c4ed3a7a47067f66414ce0b08"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v003",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v003.png",
+                       "sha256":  "7ab1e9625acd16406e8f63bd3cf2df6c72d8470641786e2c9e22c6c47e152677"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v004",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v004.png",
+                       "sha256":  "d622d0325730f6badd02016558035d56fba840c597d5a3f4636df7606932f27d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v005",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v005.png",
+                       "sha256":  "8e7314777f782c08e4b447db6210e5f2dd8307c32d2e2599a4276cd8d51ae918"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v006",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v006.png",
+                       "sha256":  "51220016bf34148f01a7834e74fcb67493840bc55463977ff6b91eee133bca89"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v007",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v007.png",
+                       "sha256":  "155054e708a38dc650f0bf374bd7fe41d9b63f9073ef00362573b3b1874fb5ce"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v008",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v008.png",
+                       "sha256":  "23b2f3fedfeedce9a4e3f1dfd9343cbca5bc01cc382431410ebccd69e9755da1"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v009",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v009.png",
+                       "sha256":  "17e629e26a32f411f92fee5f78d5e804a37d68e094a8f8cbbab5dacfb0af574e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v010",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v010.png",
+                       "sha256":  "7c1d305e7544525279384a2aab0806315cc57dc3c274f02a6d97a7050df01cd0"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v011",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v011.png",
+                       "sha256":  "6509cf3f91a15877f2a6643ee9c3c14072f9a93745cdd927a2e2e72c1077fc17"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v012",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v012.png",
+                       "sha256":  "0c886c9d3d76c6df239aaa382b5b4a8b14afd807b7856e89cc07e0e17ed10458"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v013",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v013.png",
+                       "sha256":  "00b6650052d87642c52a3f1d6921db39d1498b582ed3e64ba3355df2e4d731c8"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v014",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v014.png",
+                       "sha256":  "e9ac1cba334be5cabd019febd34003b88f340b3bdffed8cd489d6c968c35a77e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v015",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v015.png",
+                       "sha256":  "81c4be5ce29299d0614f866698f26b88feb21624d151a09ee4b624875b610d91"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v016",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v016.png",
+                       "sha256":  "91e19a9ea882f843925684e05418e6d8ce11f0cf392d5b9952af16a579e2a59d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v017",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v017.png",
+                       "sha256":  "22bc62564176ca379dce9951e2c1dcb232321ad1bbf67a530a118924b94e9eb7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v018",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v018.png",
+                       "sha256":  "fc449975c337e96c2388bd2c22849b3fa75804f42643730285bad24414327150"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v019",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v019.png",
+                       "sha256":  "598aee704fe70f951dc96ae0fe797eecceef576c5b7bddd433c2969cef3ce475"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v020",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v020.png",
+                       "sha256":  "f99744285587588f8bdf27f4e015d81247b48f62c9f8dc0605424a922777c8e6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v021",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v021.png",
+                       "sha256":  "5bbbc61f7aab42ff649068da36ca7575c14fb78f24c90af42ced4cf1409c07fc"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v022",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v022.png",
+                       "sha256":  "cc35f221a90e856bc1fc2166e12930b3a4107b488e75a4ed63f5f16f2786f528"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v023",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v023.png",
+                       "sha256":  "633abf9fb7cb3937de2a841a370a84030f958a3d616c54e41d1022fd00bb91d0"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v024",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v024.png",
+                       "sha256":  "5f1aaca33ee0b3fa98214a4eeaed08a96c44cfdcd728530194304baf75b4ca12"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v025",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v025.png",
+                       "sha256":  "6fff9e6179c40b7d1e3ec491de202d53422391a8929d41528aa85cebdba7782e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v026",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v026.png",
+                       "sha256":  "142c117b30319f24aedba832b75a23cfb3fafb77e5b1f823633379986ae89c5a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v027",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v027.png",
+                       "sha256":  "1e3da4b1c34d9ef19cecd57ae4a2e4a732b7d77983924becd02c3036d7d12293"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v028",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v028.png",
+                       "sha256":  "0a0718dce46d4474f9a24e0e192a3e858b25962acac176350cf1fe7215defc8c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v029",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v029.png",
+                       "sha256":  "991144f5510b9974d838d005347864c9f70d160a938ab8ef38aab7ddf5c7c2f7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v030",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v030.png",
+                       "sha256":  "493600b72d91b9b1395b4e10ca00641e5036b333830b9b684c0eb46dd2509c3b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v031",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v031.png",
+                       "sha256":  "fd52031959b89b9e29e87aa24c051b533bd66a28d7900d7837bbd1b02a7b26f3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v032",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v032.png",
+                       "sha256":  "879c6615a85d05f0882e860028b5fad20796956eafd6882bb0c8c7634ffdfadb"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v033",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v033.png",
+                       "sha256":  "94f7fa429d42832b859a34dcb807e2e93097a2b095d41048b508d472be6c3173"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v034",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v034.png",
+                       "sha256":  "1dc9cd0563263f66d538bb9ee71aedb194c6fe9edfbd173d9ef5e5808c863a4c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v035",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v035.png",
+                       "sha256":  "d4e263c03fe0de01f4e0c6f157cbb05aa47c9ec44e9af2c2c788e264d8fb5ebd"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v036",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v036.png",
+                       "sha256":  "c24b66bce8c35132edfcd3842893b9ffce96a2a6ddf3e7b8199450c0f0a1dffa"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v037",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v037.png",
+                       "sha256":  "98256851e4c84ef07a207fc587e619c6bb25d2e146baa45aad66bda2ea9ab837"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v038",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v038.png",
+                       "sha256":  "d082286ea31b3a86a83839ffc92209d5d06266deba37ae8fd1eb06e3d386ae55"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v039",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v039.png",
+                       "sha256":  "594a21e9abfef4b05fbfd443c8f0904c869d91daa218d50c744bce8c45a788bb"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.tactical_outdoor.v040",
+                       "file":  "tactical_outdoor/fantasy_neutral__tactical_outdoor__v040.png",
+                       "sha256":  "bd4744cbb124e0b4be0555c1c4e5e2809cde772ef6a93ff878b4943e88d9635b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v001",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v001.png",
+                       "sha256":  "fa6d5c3f471a50da3f5d84509476b98899c57ee8e4d175a150482cd0a9e4c28e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v002",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v002.png",
+                       "sha256":  "502af7f2e61f37d24fb78fc4c339981d310bd7ea70a1fd4e3df9c0fd310acdcf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v003",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v003.png",
+                       "sha256":  "d86ed077408bee55c327133458473d83e42dde55c3d5819089569e3ebf709b8c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v004",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v004.png",
+                       "sha256":  "0580757521ccd90941c2effcb2db76d26e1a3bcca874c313231fd9ab03684c00"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v005",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v005.png",
+                       "sha256":  "cd074044c5620967ca0eb4a7786a53750826934cb9d98637f92429495de97893"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v006",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v006.png",
+                       "sha256":  "b2614b5b19645b405e61f3ae62894ac3d64f1d6508d0d9d905c8610c34dd80d8"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v007",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v007.png",
+                       "sha256":  "face30c5b3039984432297c893d47123157338904a56d8a6bde060516487368c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v008",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v008.png",
+                       "sha256":  "923d998a86c21a54cb873f0f6909f7578791c211f1cd29d1778449fdc2ebba3d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v009",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v009.png",
+                       "sha256":  "581f3e4801bfc39a4c3a3b575f750b755aa69c66b6bc72bb316eb3320a4da6c2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v010",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v010.png",
+                       "sha256":  "edb5c67abfd41f534aabd9b057730cb578aec52deff3c7ff0210ac1ef4ea847f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v011",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v011.png",
+                       "sha256":  "51e758bab8a5201079e066b11768f62b9881d7483581695f7ff9439dd3818944"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v012",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v012.png",
+                       "sha256":  "6a86502d34004f8af0fbe99661d211768465ea7ba23e548884d0baaa08af8596"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v013",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v013.png",
+                       "sha256":  "54c42aa147ebb840dab9c6d7a3a2e9aec20456cba207ee904352f14025f9d68e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v014",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v014.png",
+                       "sha256":  "a7a41efe9b7fcb40a0e9b8b43621ca461cf3a0c3a0ab6d174004b9b87f90a1ec"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v015",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v015.png",
+                       "sha256":  "23a049e4bf9db0896c5c8c37301e0a40e4f7b80617cbd867b6180baecddeb8b3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v016",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v016.png",
+                       "sha256":  "ac667226a0b169d5cd897e1181384d57029ae449cb1c3c8bf793817648d99220"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v017",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v017.png",
+                       "sha256":  "f3b9bbdc65fe4e37ce922429cee7ab51618adb27213b3b89f61ff42b6481b955"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v018",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v018.png",
+                       "sha256":  "fc0219a32ec7a95756f3646e46ce1723695be8960e586d96894d720f74b1bebb"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v019",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v019.png",
+                       "sha256":  "f5e8e487c1526e82c3ab2fd347e8ff286ddd042b5612b262ca1f1b9a66c9fa8d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v020",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v020.png",
+                       "sha256":  "dff51f1499e285f0a3e94d8827dc5e706fbf8f9a52f77e5efbc0027a13adae2a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v021",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v021.png",
+                       "sha256":  "bb6f70b65db9ff90aa603138cd6b933f411af3fa129c6371866ad27562f43019"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v022",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v022.png",
+                       "sha256":  "a111b66eee1e3d1930aea589859b201105054e3cc12b55b628d39e3ec94a8ed5"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v023",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v023.png",
+                       "sha256":  "dea2344315057ec02b7728ba879a5f0aab62fb294aacec202ea33100e953a799"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v024",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v024.png",
+                       "sha256":  "9f60c2c09b26ebacf6e4d4b61148ff925946f335944f0640353a62b14e601a02"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v025",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v025.png",
+                       "sha256":  "19ee5a46bb443337be3e075a28ab484e56c7cfa16c373324e9c1c573637eddcf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v026",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v026.png",
+                       "sha256":  "b6a9d77f1c1ab7dbe3f891c718f5f4d4fdc1038c7241e9e02901a07b6f836352"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v027",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v027.png",
+                       "sha256":  "606ffd6ee9ac36fd692e1d8b2955e3428b1b13b1387d065d5e5f09e6f6c22ee0"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v028",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v028.png",
+                       "sha256":  "22d692dd9f7c1314a55149c1064045f4c5aad42c3b5ad9e2ef59a50c4c211a23"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v029",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v029.png",
+                       "sha256":  "a4f5c3ba5b61ba1c2d7593ee0681eeb6af76f75288782815c1869e79335df8d2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v030",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v030.png",
+                       "sha256":  "bd7b6b0d19de32b1b5636317d763edc07ea66d3b974a7439b2ab13b10afd1ef3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v031",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v031.png",
+                       "sha256":  "3feee1b3d48a835af429a1df2f228a618057dde2530917b527cbbf0fbe5fd872"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v032",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v032.png",
+                       "sha256":  "6d027c3936123b80ab7c99da038a1607fe1bfd536df8c96f81dd0df401246e2c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v033",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v033.png",
+                       "sha256":  "96af7bc1ce8340ca342de6a1a9e46dbfa8fd4921834adbf217d0f8ef09764fe8"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v034",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v034.png",
+                       "sha256":  "49074db4fe7413025277e695ba44df64ec42cc8cb5c980ba03a0d9531fb3dde4"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v035",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v035.png",
+                       "sha256":  "0c05a15caf0a36474b2260345832b79c155a0e3f6b181d726cb3b00580ea9948"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v036",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v036.png",
+                       "sha256":  "719de90789dd71b476c48855d61555cd0cfe925c0d90a845ddaa8eaf3a4fbeed"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v037",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v037.png",
+                       "sha256":  "d5e21cef19d2b522b31bef6ee02f9ab7a7096916d6cd10baba02fc6299f97b2b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v038",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v038.png",
+                       "sha256":  "6c5cec8332bbeeeb595ac8969d81ba7818841449d7ecc1665cfec739c00d6745"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v039",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v039.png",
+                       "sha256":  "b28d42af874aa874a9a039fa2735caac76f5fa371812aba67c6ed18858fd4a7a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v040",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v040.png",
+                       "sha256":  "7da302842aff3b0ec8d453f4400092fdab3491877cf3f44bdb1b2a36be66bc5a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v041",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v041.png",
+                       "sha256":  "2bed9845b455875e79c07bb615bb3738abe01d8103c9b709d000b8cd0d0d1efb"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v042",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v042.png",
+                       "sha256":  "8e509dba91294b6823113dfc6b6f1c7be5138448da9408c3666141975336af50"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v043",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v043.png",
+                       "sha256":  "1ccbb11920264bfbb24ee0a03f3f46a12fcacf7dde0705452781bd33d366bbc0"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v044",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v044.png",
+                       "sha256":  "92fe48fe80b1016fa7cfa0d075eb135628ca25bec8166ce9b5a11de0caad5c51"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v045",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v045.png",
+                       "sha256":  "055170fa1a544f6c7de9c192f9debc210a091841297f66f46ff5785c9b166d34"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v046",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v046.png",
+                       "sha256":  "a5eb60416b1305bd4da67b7755b032f68649ebe42839839e287880b0873fd3eb"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v047",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v047.png",
+                       "sha256":  "0eeab9b52e6caebbf826bed2651725331ee0478a056812cfa461d2f9452082ab"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v048",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v048.png",
+                       "sha256":  "caa3e4887ef8d4ce8c06d57903987e3a71d1e3120df6073d4564aa9dc3ef8ee8"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v049",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v049.png",
+                       "sha256":  "c33229d1cf431278879d513acb58f843b22c7237bf60b1170bf769f91d84f0b9"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v050",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v050.png",
+                       "sha256":  "ed83b3c55c794906e7edbb189d12e050f96f5738979915814a33b2b512f84c18"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v051",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v051.png",
+                       "sha256":  "1194a869ef778c1b1e19e5b38064e074c976e4644beadc00f908f1ed5ad80e3e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v052",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v052.png",
+                       "sha256":  "8e0ee214de689fcbbf55ba6969d731b0cac2acc734ec542b010d745988399158"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v053",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v053.png",
+                       "sha256":  "83fe16e7c60b9ad05f8120bf640420fad109f167280e0d78c5ae8a8cb07f6306"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.terrain_water.v054",
+                       "file":  "terrain_water/fantasy_neutral__terrain_water__v054.png",
+                       "sha256":  "d10c0ac65e6387c07a0e57106b589f37065eb560446c8df03028ac7b00939581"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v001",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v001.png",
+                       "sha256":  "3dccb3ec4d1994cf6a835784a5407695e4054362cf1508f727b259e032ed056c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v002",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v002.png",
+                       "sha256":  "bea2d31f5b20270d204405d0f5cc1f355ffa8ef28749673910c692345e48ea52"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v003",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v003.png",
+                       "sha256":  "dcdc1d47974242772173665ef0fed893e2d2c3bad08bb572e860b296536cc840"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v004",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v004.png",
+                       "sha256":  "68381fe1ccce76ea9f25dd16fc05c39dab4d99c506d0320dc26d41ffc85e0bf7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v005",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v005.png",
+                       "sha256":  "72492b03e89424fd596ba29fe75a917fa1f3516c5d3b2bcc976b880af11acc0c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v006",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v006.png",
+                       "sha256":  "8d8a14ffb84ed518acbaba1e0925fe625f6534f02b8688963688e87d304148e5"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v007",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v007.png",
+                       "sha256":  "db33ac2b8e5f90cfe41ef2fba9cda94e36809a56cb403ffca284df1d65080ccb"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v008",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v008.png",
+                       "sha256":  "ac6594a1a87b110ed63d85a9a2f7d16db8f30064639f91331e2b0a81e8449294"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v009",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v009.png",
+                       "sha256":  "6a674cc1952d0e4d717c045a656f6bb25af91ec8b2933a7deee9e8f228b76fc6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v010",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v010.png",
+                       "sha256":  "1a7ca726863e5c39bb3e1a07314250364ac9c412485786110d0e5de38ecc04bd"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v011",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v011.png",
+                       "sha256":  "d9c65dc8315165772231202b33810d083aa39abb1c282b27e2f2282ec4b00dc8"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v012",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v012.png",
+                       "sha256":  "1b967d4b08b53800b1455b4d5a9f84f0427917588c12253e868f49a2cd60e0b1"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v013",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v013.png",
+                       "sha256":  "32157185fe3d2f62f907371284208ff93863c70c266226bf5995624273f5a879"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v014",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v014.png",
+                       "sha256":  "40cb9abd20cc047e3aa0f45469b61c4dd7fcd0b75d2aa40a5319dee8f9328a7e"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v015",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v015.png",
+                       "sha256":  "278a1cc18537c9b702f4609a7fd6608e80021d33acee4fe13807a1fb6f91978c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v016",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v016.png",
+                       "sha256":  "340a78aa322bca78bc16e8f5d5768ecc024b223148fbf9afd9923361402220ac"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v017",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v017.png",
+                       "sha256":  "610e4e36f46228434d09f369f5516b32071e2d6a9c7a7af8510c476f2ec6adbf"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v018",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v018.png",
+                       "sha256":  "99fb414e5a2dd435bff7c991d34e0537f4e137fb5e8134bb10821f0411b82952"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v019",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v019.png",
+                       "sha256":  "eba89faa770afd3c2db1184bac524b48e3fa6f7d12c08b74da99d3b6827bd697"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v020",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v020.png",
+                       "sha256":  "a20f47c7d32eae8d594ce825ebef6ff0fa46be1920f45ff7fe59cf1e219363e0"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v021",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v021.png",
+                       "sha256":  "6806e38a5e284d5f25064ad87759121e203ebd1f079ff526e0195543a841b1ab"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v022",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v022.png",
+                       "sha256":  "8f9f44383e63e6f1836aa3c5a9340f70581ff5a4907f8f0815dab09585be90a6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v023",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v023.png",
+                       "sha256":  "a0b6d90f39b7b5c4f2eab582c783d6f56d14f1f7c1b26eda9e5fb2abc1c3bbea"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v024",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v024.png",
+                       "sha256":  "ed50f4e8b57fc6512e00091f41786aff2b43d22684b88955468119fb191bec2c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v025",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v025.png",
+                       "sha256":  "6e0806711307f51d81e2b53482e9766717dff95f70c1a79e7f0595597c7e6082"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v026",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v026.png",
+                       "sha256":  "c4f56884be2ec6c8ece5789b2fff7fe47a129324f6519cb4f8900b4a1ca1241c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v027",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v027.png",
+                       "sha256":  "f155046941e111adf979b7fa4abb34d38b2ea0bfe0b6bb70169bf5214a0a976f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v028",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v028.png",
+                       "sha256":  "bd78cd015d4d4bd90cf85da476890b011bbfb9b43d8c24e182417c11eec0703c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v029",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v029.png",
+                       "sha256":  "63ab154440236166ec53d786981c853ffee9aed94d15e770e8fdd8d6c528951b"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v030",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v030.png",
+                       "sha256":  "84512fa1052075661236aecf10d1204b1871796e2c65695be59cc8ede90b6927"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v031",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v031.png",
+                       "sha256":  "07276a9083df01ee3662c97afe480234e909881cd66d4f3e84a00e0176fad652"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.transitions_details.v032",
+                       "file":  "transitions_details/fantasy_neutral__transitions_details__v032.png",
+                       "sha256":  "6fadab4cd860896487923c5ed3afee6acecfd50122453193fc87cd048687cfff"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v001",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v001.png",
+                       "sha256":  "571fac1c3a382bb69c7b99c7e6f753cf0007fda674d11f5bd944f1efa14412f6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v002",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v002.png",
+                       "sha256":  "de193df567e8af51672b4cb4e1f821098f4d3daf2c99b7a448f0cb131c8eb2f7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v003",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v003.png",
+                       "sha256":  "366816c92fffe59e36bcd6bdb4d28bc9d30a3059f2008e25aac7fd90925f6303"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v004",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v004.png",
+                       "sha256":  "7b5f663b740bd4d5bb27f5a70bb8fb99af540421ee216b1153a8757e44d94f5a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v005",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v005.png",
+                       "sha256":  "5ca8fba7da7a1733ec1cbf99ded7c47115bfe21d639d0a616090399002432b77"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v006",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v006.png",
+                       "sha256":  "697510edfc095a37e1ae30317822984bd5175f2cf527061539776b95b52c2660"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v007",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v007.png",
+                       "sha256":  "0bbf472fc26e6071875b01a18ae831d9c788b7b2770443c60a9b59391f9e054f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v008",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v008.png",
+                       "sha256":  "60df99e221b0a6c1d2293fefb3c924ddd6277082815ddd6484b9d3c19dbf468c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v009",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v009.png",
+                       "sha256":  "286b7c95ec1d3247dab3f81c76519f3263e6d3dc493ab4e44e222f3f044536c7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v010",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v010.png",
+                       "sha256":  "ed8ae11a0310814c658ca6733d0291911f9d4f79d6bb347d769147f4a86cf7a3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v011",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v011.png",
+                       "sha256":  "f0d2de73d0ffc461008296e6fdf2dbbc227084e6fef19d2888875860fa867a8c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v012",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v012.png",
+                       "sha256":  "7e8dc86028b91d1eff417d10f79fce7f2da407fae343d55494ff087fca986080"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v013",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v013.png",
+                       "sha256":  "83c86738625115992a44315f3996da7f222453ae4060f04eb5f748c157f9b9dc"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v014",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v014.png",
+                       "sha256":  "6e5a637df46eee7cfe42b64972fd4891b1479f8dd3393dfe606dc6ef911c3d58"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v015",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v015.png",
+                       "sha256":  "bd0d97c17a4a7beaefbefccbb2c085ae189aba201fc92ef13e0a293e5dcabc87"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v016",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v016.png",
+                       "sha256":  "bd5a59d3fc4cde51279deda310d13325afa1ce6d1c0795e5a614a7779636ea6a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v017",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v017.png",
+                       "sha256":  "71ae562fb0d5e35da95da8130a95aae77e4ac48f22057f799f57181d59572da8"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v018",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v018.png",
+                       "sha256":  "2a64633d021209498f0e22cf9fbc3b1610b50ac76173fb5d932b7f91b5f060ad"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v019",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v019.png",
+                       "sha256":  "b25293a611c99b80ef85db1a9d67f5aeed8a1cdac63692f45a5cf755f3f8d93f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v020",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v020.png",
+                       "sha256":  "508e586df6444145f621919bb6ff0e9eedef50a7f34656d97346b09261e404c7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v021",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v021.png",
+                       "sha256":  "00491fcba730af76f5f22b557a55031a78bec3c4ff6d7f12d3447348af6ddac2"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v022",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v022.png",
+                       "sha256":  "cd72ec27657c26a0571d0fd733c32634cc428b5c4d7ea67c849fdd8a677915ee"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v023",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v023.png",
+                       "sha256":  "9922815a26ce1791fd56e85661b767717ee56ff4f0305ceeba21a13666e748cc"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v024",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v024.png",
+                       "sha256":  "c134776e8733a931d2f739a3cbc949903503b1805bd222f62dbd615c1101f037"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v025",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v025.png",
+                       "sha256":  "794fe291663f8136280c79d98f0c7b4be60d91fe68360f3060d80bb8fba848e1"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v026",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v026.png",
+                       "sha256":  "f43dfaf317d7f4078049aeac23b6a276de06b9c6b00f2d5a98d09b79f064dd53"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v027",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v027.png",
+                       "sha256":  "47e4137faf3167161d3dcb5b4387d5af219831c3e828d0492d4cec0a774c364f"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v028",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v028.png",
+                       "sha256":  "e1406be73d74cadbebf2f4a283520734234d893255de67b1e7c96574c8f04395"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v029",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v029.png",
+                       "sha256":  "461c162eb87ab69ea247df0f715d56a0785e5ac64b6c1d26e7de91d2f211567a"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v030",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v030.png",
+                       "sha256":  "a34ef13d40f983398b77a62befcf9c8afb55dcfcae3a7159f55921a487cc4303"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v031",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v031.png",
+                       "sha256":  "ff776094df2801de9e7ffdb23a92e597b8ac72fcaee674bbc73b1904ce88b277"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v032",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v032.png",
+                       "sha256":  "184c44aab1be4eace8dd7b9421581a0cdb9e3e4bc6e8df8257191cfbc677cc58"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v033",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v033.png",
+                       "sha256":  "39137b9cbb14b593296a532c55785b91b2bff7cdc3a4d4497e9ae51e5838109d"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v034",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v034.png",
+                       "sha256":  "37aabf0759d323ea997e23dcb922509d519a200bc06ee9512faf22716a258872"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v035",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v035.png",
+                       "sha256":  "2560b56af77fde536d7a93e516496bac7b8668ec7ee5cbc61c0c35c0960d7620"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v036",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v036.png",
+                       "sha256":  "4a64fdc3bdee857eba961059ef039a97ee04fc17e53602c94349bd9645ab21de"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v037",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v037.png",
+                       "sha256":  "256a5d179e725d3813a1f9fe519bd4f46d7ad9aa3e3b314a5f075729191f4ba7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v038",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v038.png",
+                       "sha256":  "528714723551eb31c332e70aeeb609a4abc043f5b66e5a82b7fc98a6ccf564d7"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v039",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v039.png",
+                       "sha256":  "e2573d4b0fcb3159fcafeec4473b5e90dd7e8603fd0fec022f8b066fd95a70e5"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v040",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v040.png",
+                       "sha256":  "1a090b51a84541dae3039eb9d93ee234f72fecda9774d7a1dff91d9bdbc15626"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v041",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v041.png",
+                       "sha256":  "79416e2cc8f5d1f98e11ef8625cf5091bb367d1c75ac0310366cea6a56080d96"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v042",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v042.png",
+                       "sha256":  "5ccf428f643a008c18cc91be2c82792f8cb9972d589764ccaed736277aa12258"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v043",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v043.png",
+                       "sha256":  "79a0d9b6b1249f222c5e8cf630ee065305b93b77011247cacc9b92ae2d6a6132"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v044",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v044.png",
+                       "sha256":  "7c579a4c349de6e0aaf8ae216a98594ea0ba2d33d95fab697ca7d41d77d9978c"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v045",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v045.png",
+                       "sha256":  "bb04a7a0aff378edec5ae84c355a934e621b4b422cdb018eed20ddc2f9ff5882"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v046",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v046.png",
+                       "sha256":  "d48c4e5eabc5f798c5d8614e4a84ea8bd65cfc50e180b0826a520bc5784ecfa6"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v047",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v047.png",
+                       "sha256":  "dd19357f9e83efa57675bf8862b2aa0c0a723b793303945419615b31f217f5f3"
+                   },
+                   {
+                       "id":  "fantasy_neutral.v3.vegetation.v048",
+                       "file":  "vegetation/fantasy_neutral__vegetation__v048.png",
+                       "sha256":  "fbdb862967c5baa44dc4885ce781711f3200a98c9545c0305e96994f6e1f3968"
+                   }
+               ]
+}

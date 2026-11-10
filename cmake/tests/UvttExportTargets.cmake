@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+add_executable(uvtt_export_tests tools/uvtt_export_tests.cpp)
+target_link_libraries(uvtt_export_tests PRIVATE gm_core)
+add_test(NAME uvtt_export COMMAND uvtt_export_tests)
+endif()

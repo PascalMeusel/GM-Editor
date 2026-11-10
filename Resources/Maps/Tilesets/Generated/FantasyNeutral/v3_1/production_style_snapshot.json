@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "state": "production",
+  "style_id": "fantasy_neutral",
+  "style_version": 3,
+  "atlas_version": "3.1",
+  "snapshot_id": "fantasy_neutral_v3_1_aea3165fcbd3eda3",
+  "base_snapshot_id": "fantasy_neutral_v3_15650456ddb04b04",
+  "asset_count": 60,
+  "manifest_sha256": "aea3165fcbd3eda352804de9d98e3cd8f758e9e795e5aba0a6c349774d7ee92b",
+  "assets": [
+    {
+      "id": "fantasy_neutral.v31.macro_material.01",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__01.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.02",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__02.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.03",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__03.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.04",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__04.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.05",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__05.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.06",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__06.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.07",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__07.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.08",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__08.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.09",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__09.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.10",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__10.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.11",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__11.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.12",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__12.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.01",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__01.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.02",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__02.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.03",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__03.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.04",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__04.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.05",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__05.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.06",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__06.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.07",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__07.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.08",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__08.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.09",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__09.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.10",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__10.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.11",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__11.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.12",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__12.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.13",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__13.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.14",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__14.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.15",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__15.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.16",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__16.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.01",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__01.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.02",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__02.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.03",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__03.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.04",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__04.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.05",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__05.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.06",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__06.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.07",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__07.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.08",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__08.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.09",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__09.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.10",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__10.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.11",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__11.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.12",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__12.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.01",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__01.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.02",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__02.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.03",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__03.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.04",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__04.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.05",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__05.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.06",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__06.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.07",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__07.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.08",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__08.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.01",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__01.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.02",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__02.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.03",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__03.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.04",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__04.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.05",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__05.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.06",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__06.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.01",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__01.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.02",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__02.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.03",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__03.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.04",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__04.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.05",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__05.png",
+      "status": "accepted"
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.06",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__06.png",
+      "status": "accepted"
+    }
+  ]
+}

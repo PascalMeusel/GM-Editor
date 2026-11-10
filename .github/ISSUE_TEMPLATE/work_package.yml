@@ -1,0 +1,46 @@
+name: Work package
+description: Describe an improvement, missing feature or focused piece of work.
+title: "[Work] "
+body:
+  - type: markdown
+    attributes:
+      value: "Write in English or German. Describe the user experience you want; implementation details are optional."
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would you like to be able to do?
+      placeholder: "While using ... I want ... so that ..."
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: How does it work today?
+      description: Describe the current limitation. Screenshots and sketches are welcome.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: Observable results that let contributors and reviewers decide whether the work is complete.
+      placeholder: "- [ ] I can ...\n- [ ] When I ... the program ...\n- [ ] Existing ... still works."
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: Scope and constraints
+      placeholder: "Include ... / Leave ... for another ticket. Preserve ..."
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Related tickets and dependencies
+      placeholder: "Depends on #... / Related to #..."
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - Normal
+        - High - needed for my next session
+        - Low - nice to have
+      default: 0

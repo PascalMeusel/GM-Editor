@@ -1,0 +1,8 @@
+SQLite is in the public domain. Its authors have dedicated their code and
+documentation to the public domain.
+
+The exact SQLite amalgamation used by this build is included in SQLiteCpp's
+sqlite3 directory in the corresponding source archive. Its embedded notices are
+retained. The surrounding SQLiteCpp wrapper has a separate MIT license.
+
+Upstream copyright statement: https://www.sqlite.org/copyright.html

@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 21,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "windows-msvc-ninja-debug",
+      "displayName": "Windows MSVC Ninja Debug",
+      "description": "Configures the project with Ninja and the active MSVC developer environment.",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build",
+      "condition": {
+        "type": "equals",
+        "lhs": "${hostSystemName}",
+        "rhs": "Windows"
+      },
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug"
+      }
+    },
+    {
+      "name": "linux-gcc-make-debug",
+      "displayName": "Linux GCC Make Debug",
+      "description": "Configures the project on Linux with Unix Makefiles.",
+      "generator": "Unix Makefiles",
+      "binaryDir": "${sourceDir}/build-linux",
+      "condition": {
+        "type": "equals",
+        "lhs": "${hostSystemName}",
+        "rhs": "Linux"
+      },
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug"
+      }
+    },
+    {
+      "name": "windows-msvc-ninja-release",
+      "displayName": "Windows MSVC Ninja Release",
+      "description": "Configures the project with Ninja and the active MSVC developer environment.",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build-release",
+      "condition": {
+        "type": "equals",
+        "lhs": "${hostSystemName}",
+        "rhs": "Windows"
+      },
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "windows-msvc-ninja-debug",
+      "configurePreset": "windows-msvc-ninja-debug",
+      "jobs": 4
+    },
+    {
+      "name": "linux-gcc-make-debug",
+      "configurePreset": "linux-gcc-make-debug",
+      "jobs": 4
+    },
+    {
+      "name": "windows-msvc-ninja-release",
+      "configurePreset": "windows-msvc-ninja-release",
+      "jobs": 4
+    }
+  ]
+}

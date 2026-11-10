@@ -1,0 +1,24 @@
+build/
+build-*/
+dist/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.exe
+*.obj
+__pycache__/
+*.py[cod]
+Resources/Backups/
+Resources/Recovery/
+
+# Local user content and generated evidence are preserved outside product Git.
+/TTRPG.db*
+/GMEditor.settings
+/imgui.ini
+/Logs/
+/Resources/Campaigns/
+/foundation_test_project_root/
+/out/

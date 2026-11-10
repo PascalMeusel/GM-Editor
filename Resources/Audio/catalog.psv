@@ -1,0 +1,70 @@
+# id|name|type|theme|relative_path|default_volume|loop|source_title|author|license|source_url
+music_town_theme_rpg|Town Theme RPG|Music|Town|Resources/Audio/Music/town_theme_rpg.mp3|0.55|1|Town Theme RPG|cynicmusic|CC0|https://opengameart.org/content/town-theme-rpg
+music_prepare_your_swords|Prepare Your Swords|Music|Travel|Resources/Audio/Music/prepare_your_swords.mp3|0.60|0|Prepare your swords|Bojidar Marinov|CC0|https://opengameart.org/content/prepare-your-swords
+music_fighting_is_not_an_option|Fighting Is Not An Option|Music|Boss Battle|Resources/Audio/Music/fighting_is_not_an_option.mp3|0.70|1|RPG Battle Theme II|Cleyton Kauffman|CC0|https://opengameart.org/content/rpg-battle-theme-ii
+music_medieval_battle|Medieval Battle|Music|Battle|Resources/Audio/Music/medieval_battle.mp3|0.68|0|Medieval: Battle|RandomMind|CC0|https://opengameart.org/content/medieval-battle
+music_old_tower_inn|Old Tower Inn|Music|Tavern|Resources/Audio/Music/old_tower_inn.mp3|0.55|1|Medieval: The Old Tower Inn|RandomMind|CC0|https://opengameart.org/content/medieval-the-old-tower-inn
+music_market_day_loop|Market Day Loop|Music|Market|Resources/Audio/Music/market_day_loop.mp3|0.55|1|Medieval: Market Day|RandomMind|CC0|https://opengameart.org/content/medieval-market-day
+music_field_of_dreams|The Field Of Dreams|Music|Mystic|Resources/Audio/Music/field_of_dreams.mp3|0.50|1|The Field Of Dreams|pauliuw|CC0|https://lpc.opengameart.org/content/the-field-of-dreams
+music_orchestral_battle_theme|Orchestral Battle Theme|Music|Battle|Resources/Audio/Music/orchestral_battle_theme.mp3|0.68|0|Battle Theme|Wolfgang_|CC0|https://opengameart.org/content/battle-theme-0
+music_mystery_exploration|Mystery Exploration|Music|Mystery|Resources/Audio/Music/mystery_exploration.mp3|0.50|1|CC0 - Mystery|PolygonDan|CC0|https://opengameart.org/content/cc0-mystery
+music_medieval_victory|Medieval Victory|Music|Fanfare|Resources/Audio/Music/medieval_victory.mp3|0.72|0|Medieval: Victory Theme|RandomMind|CC0|https://opengameart.org/content/medieval-victory-theme
+music_winter_wind|Winter Wind|Music|Snow|Resources/Audio/Music/winter_wind.mp3|0.46|1|Winter Wind|wipics|CC0|https://opengameart.org/content/winter-wind
+music_cave_explorer|Cave Explorer|Music|Cave|Resources/Audio/Music/cave_explorer.mp3|0.45|1|Cave explorer|mutantleg|CC0|https://opengameart.org/content/cave-explorer
+music_scifi_urgent|Sci-Fi Urgent Pulse|Music|Sci-Fi Tension|Resources/Audio/Music/scifi_urgent.mp3|0.55|1|Dark Sci-Fi Audio Pack|SRG774|CC0|https://opengameart.org/content/dark-sci-fi-audio-pack
+ambience_forest|Forest Ambience|Ambience|Wilderness|Resources/Audio/Ambience/forest_ambience.mp3|0.35|1|Forest Ambience|TinyWorlds|CC0|https://opengameart.org/content/forest-ambience
+ambience_forgotten_tomb|Forgotten Tomb Ambience|Ambience|Dungeon|Resources/Audio/Ambience/forgotten_tomb_ambience.mp3|0.25|1|Forgoten tomb ambience|kindland|CC0|https://opengameart.org/content/forgoten-tomb-ambience
+ambience_rain_gutter|Rain In The Gutter|Ambience|Rain|Resources/Audio/Ambience/rain_gutter_loop.mp3|0.32|1|Rain in the Gutter Loop|Ogrebane|CC0|https://opengameart.org/content/rain-gutter-loop
+ambience_deep_sea|Deep Sea|Ambience|Ocean|Resources/Audio/Ambience/deep_sea.mp3|0.34|1|Deep Sea|Umplix|CC0|https://opengameart.org/content/deep-sea
+ambience_space_wind|Space Wind|Ambience|Space|Resources/Audio/Ambience/space_wind.mp3|0.32|1|Space Winds|aquinn|CC0|https://opengameart.org/content/space-winds
+ambience_underwater_engine|Underwater Engine|Ambience|Underwater|Resources/Audio/Ambience/underwater_engine.mp3|0.28|1|underwater or space engine rumble|gmason|CC0|https://opengameart.org/content/underwater-or-space-engine-rumble
+ambience_deep_rumble|Deep Rumble|Ambience|Tension|Resources/Audio/Ambience/deep_rumble.mp3|0.30|1|underwater or space engine rumble|gmason|CC0|https://opengameart.org/content/underwater-or-space-engine-rumble
+ambience_scifi_sector|Sci-Fi Sector|Ambience|Sci-Fi|Resources/Audio/Ambience/scifi_sector.mp3|0.34|1|Dark Sci-Fi Audio Pack|SRG774|CC0|https://opengameart.org/content/dark-sci-fi-audio-pack
+ambience_scifi_pulse|Sci-Fi Pulse|Ambience|Sci-Fi Tension|Resources/Audio/Ambience/scifi_pulse.mp3|0.32|1|Dark Sci-Fi Audio Pack|SRG774|CC0|https://opengameart.org/content/dark-sci-fi-audio-pack
+effect_spell_arcane_pulse|Arcane Pulse|Effect|Magic|Resources/Audio/Effects/spell_arcane_pulse.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_spell_deep_cast|Deep Spell Cast|Effect|Magic|Resources/Audio/Effects/spell_deep_cast.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_fire_staff_crackle|Fire Staff Crackle|Effect|Fire|Resources/Audio/Effects/fire_staff_crackle.mp3|0.75|0|Fire Staff Sound Effects|LEGIT Audio|CC0|https://opengameart.org/content/fire-staff-sound-effects
+effect_weapon_swing_light|Light Weapon Swing|Effect|Combat|Resources/Audio/Effects/weapon_swing_light.wav|0.80|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_weapon_swing_heavy|Heavy Weapon Swing|Effect|Combat|Resources/Audio/Effects/weapon_swing_heavy.wav|0.80|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_weapon_swing_fast|Fast Weapon Swing|Effect|Combat|Resources/Audio/Effects/weapon_swing_fast.wav|0.80|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_weapon_unsheathe_steady|Steady Unsheathe|Effect|Combat|Resources/Audio/Effects/weapon_unsheathe_steady.wav|0.80|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_weapon_unsheathe_sharp|Sharp Unsheathe|Effect|Combat|Resources/Audio/Effects/weapon_unsheathe_sharp.wav|0.80|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_weapon_unsheathe_short|Short Unsheathe|Effect|Combat|Resources/Audio/Effects/weapon_unsheathe_short.wav|0.80|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_weapon_unsheathe_drawn|Drawn Unsheathe|Effect|Combat|Resources/Audio/Effects/weapon_unsheathe_drawn.wav|0.80|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_weapon_unsheathe_low|Low Unsheathe|Effect|Combat|Resources/Audio/Effects/weapon_unsheathe_low.wav|0.80|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_bottle|Bottle Clink|Effect|Inventory|Resources/Audio/Effects/inventory_bottle_clink.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_light_armor|Light Armor Rustle|Effect|Inventory|Resources/Audio/Effects/inventory_light_armor.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_beads|Beads|Effect|Inventory|Resources/Audio/Effects/inventory_beads.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_bubble_light|Light Bubble|Effect|Inventory|Resources/Audio/Effects/inventory_bubble_light.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_bubble_round|Round Bubble|Effect|Inventory|Resources/Audio/Effects/inventory_bubble_round.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_bubble_deep|Deep Bubble|Effect|Inventory|Resources/Audio/Effects/inventory_bubble_deep.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_chainmail|Chainmail Shift|Effect|Inventory|Resources/Audio/Effects/inventory_chainmail_shift.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_cloth_soft|Soft Cloth|Effect|Inventory|Resources/Audio/Effects/inventory_cloth_soft.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_cloth_heavy|Heavy Cloth|Effect|Inventory|Resources/Audio/Effects/inventory_cloth_heavy.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_coin_toss|Coin Toss|Effect|Inventory|Resources/Audio/Effects/inventory_coin_toss.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_coin_pouch|Coin Pouch|Effect|Inventory|Resources/Audio/Effects/inventory_coin_pouch.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_metal_ring|Ringing Metal|Effect|Inventory|Resources/Audio/Effects/inventory_metal_ring.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_small_metal_1|Small Metal Tap 1|Effect|Inventory|Resources/Audio/Effects/inventory_small_metal_1.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_small_metal_2|Small Metal Tap 2|Effect|Inventory|Resources/Audio/Effects/inventory_small_metal_2.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_small_metal_3|Small Metal Tap 3|Effect|Inventory|Resources/Audio/Effects/inventory_small_metal_3.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_inventory_wood_tap|Wood Tap|Effect|Inventory|Resources/Audio/Effects/inventory_wood_tap.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_interface_select|Soft Select|Effect|Interface|Resources/Audio/Effects/interface_select_soft.wav|0.65|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_interface_cancel|Soft Cancel|Effect|Interface|Resources/Audio/Effects/interface_cancel_soft.wav|0.65|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_scifi_hover|Sci-Fi Hover|Effect|Interface|Resources/Audio/Effects/scifi_hover.mp3|0.65|0|Dark Sci-Fi Audio Pack|SRG774|CC0|https://opengameart.org/content/dark-sci-fi-audio-pack
+effect_scifi_victory|Sci-Fi Victory|Effect|Fanfare|Resources/Audio/Effects/scifi_victory.mp3|0.72|0|Dark Sci-Fi Audio Pack|SRG774|CC0|https://opengameart.org/content/dark-sci-fi-audio-pack
+effect_npc_deep_warning|Deep Warning|Effect|Encounter|Resources/Audio/Effects/npc_deep_warning.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_threat_growl|Threat Growl|Effect|Encounter|Resources/Audio/Effects/npc_threat_growl.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_shadow_whisper|Shadow Whisper|Effect|Encounter|Resources/Audio/Effects/npc_shadow_whisper.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_slime_squelch|Squelch|Effect|Encounter|Resources/Audio/Effects/npc_slime_squelch.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_small_bite_1|Small Bite 1|Effect|Encounter|Resources/Audio/Effects/npc_small_bite_1.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_small_bite_2|Small Bite 2|Effect|Encounter|Resources/Audio/Effects/npc_small_bite_2.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_giant_call_1|Giant Call 1|Effect|Encounter|Resources/Audio/Effects/npc_giant_call_1.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_giant_call_2|Giant Call 2|Effect|Encounter|Resources/Audio/Effects/npc_giant_call_2.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_shade_long_1|Long Shade 1|Effect|Encounter|Resources/Audio/Effects/npc_shade_long_1.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_shade_long_2|Long Shade 2|Effect|Encounter|Resources/Audio/Effects/npc_shade_long_2.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_slime_pop_1|Slime Pop 1|Effect|Encounter|Resources/Audio/Effects/npc_slime_pop_1.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_npc_slime_pop_2|Slime Pop 2|Effect|Encounter|Resources/Audio/Effects/npc_slime_pop_2.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_misc_short_alert|Short Alert|Effect|Misc|Resources/Audio/Effects/misc_short_alert.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_misc_dull_thud|Dull Thud|Effect|Misc|Resources/Audio/Effects/misc_dull_thud.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_misc_low_impact|Low Impact|Effect|Misc|Resources/Audio/Effects/misc_low_impact.wav|0.70|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack
+effect_world_creaky_door|Creaky Door|Effect|Dungeon|Resources/Audio/Effects/world_creaky_door.wav|0.75|0|RPG Sound Pack|artisticdude|CC0|https://opengameart.org/content/rpg-sound-pack

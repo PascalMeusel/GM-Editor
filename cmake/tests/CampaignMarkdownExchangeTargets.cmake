@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+add_executable(campaign_markdown_exchange_tests tools/campaign_markdown_exchange_tests.cpp)
+target_link_libraries(campaign_markdown_exchange_tests PRIVATE gm_core)
+add_test(NAME campaign_markdown_exchange COMMAND campaign_markdown_exchange_tests)
+endif()

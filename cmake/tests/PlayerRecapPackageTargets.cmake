@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+    add_executable(player_recap_package_tests tools/player_recap_package_tests.cpp)
+    target_link_libraries(player_recap_package_tests PRIVATE gm_core)
+    add_test(NAME player_recap_package COMMAND player_recap_package_tests)
+endif()

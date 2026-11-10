@@ -1,0 +1,8 @@
+The Windows community preview is built with Microsoft Visual C++ and links its
+standard C/C++ runtime statically. Those Microsoft components remain subject to
+their applicable Microsoft Visual Studio license and redistribution terms; the
+GM Editor source license does not relicense them. Windows system libraries are
+provided by the operating system and are not included in the source archive.
+
+Builds require a properly licensed Visual Studio or Build Tools installation.
+See https://learn.microsoft.com/cpp/windows/redistributing-visual-cpp-files

@@ -1,0 +1,14 @@
+if(TTRPG_BUILD_TESTS)
+add_executable(player_publication_assets_tests tools/player_publication_assets_tests.cpp)
+target_link_libraries(player_publication_assets_tests PRIVATE gm_core)
+add_test(NAME player_publication_assets COMMAND player_publication_assets_tests)
+add_executable(player_review_session_tests tools/player_review_session_tests.cpp)
+target_link_libraries(player_review_session_tests PRIVATE gm_core)
+add_test(NAME player_review_session COMMAND player_review_session_tests)
+add_executable(scoped_image_texture_cache_tests
+    tools/scoped_image_texture_cache_tests.cpp
+    Views/Editor/Widgets/ScopedImageTextureCache.cpp)
+target_include_directories(scoped_image_texture_cache_tests PRIVATE . ${TTRPG_IMGUI_DIR})
+target_link_libraries(scoped_image_texture_cache_tests PRIVATE gm_core)
+add_test(NAME scoped_image_texture_cache COMMAND scoped_image_texture_cache_tests)
+endif()

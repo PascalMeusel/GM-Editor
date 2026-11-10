@@ -1,0 +1,54 @@
+{
+  "style_id": "fantasy_neutral",
+  "display_name": "Fantasy Neutral",
+  "schema_version": 1,
+  "version": "0.1.0",
+  "status": "runtime_v1_with_v2_candidates",
+  "supports_scales": ["world", "local", "city", "dungeon", "battle"],
+  "fallback_style": null,
+  "logical_families": [
+    "grass_open",
+    "dirt",
+    "water_shallow",
+    "forest_deciduous",
+    "mountain",
+    "hill",
+    "road_dirt",
+    "settlement",
+    "building",
+    "dungeon_floor_stone",
+    "dungeon_wall_stone",
+    "door_wood",
+    "cave_mouth",
+    "stairs",
+    "hazard",
+    "stone_ground",
+    "snow",
+    "desert_dune",
+    "swamp",
+    "lava",
+    "ice",
+    "pit",
+    "rubble",
+    "cover",
+    "void_chasm",
+    "bridge_wood"
+  ],
+  "asset_manifests": {
+    "v2_tiles": "../Source/FantasyNeutral/v2/tiles.json",
+    "v2_transitions": "../Source/FantasyNeutral/v2/transition_pairs.json",
+    "v2_ways": "../Source/FantasyNeutral/v2/ways.json",
+    "v2_taxonomy": "../Source/FantasyNeutral/v2/taxonomy.json"
+  },
+  "atlas_index": "../Generated/FantasyNeutral/v2/atlas_index.json",
+  "runtime_v1_atlases": [
+    "../IsometricTerrainTiles.png",
+    "../IsometricNatureTiles.png",
+    "../IsometricTravelAndMapTiles.png",
+    "../IsometricSettlementTiles.png",
+    "../IsometricDungeonTiles.png",
+    "../IsometricBattlefieldTiles.png"
+  ],
+  "notes": "The app still renders stable v1 Isometric atlases at runtime. The v2 manifests and generated atlas index are candidate-only until accepted."
+}
+

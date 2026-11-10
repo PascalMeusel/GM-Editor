@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "style_id": "fantasy_neutral",
+  "style_version": 3,
+  "atlas_version": "3.3",
+  "snapshot_id": "fantasy_neutral_v3_3_ec659c205685c2d2",
+  "base_snapshot_id": "fantasy_neutral_v3_2_e5c3a517aa3dea2d",
+  "asset_count": 4,
+  "accepted_count": 4,
+  "overlay_content_sha256": "ec659c205685c2d23d72b9b7b01a77c894d368f2fc2aae67ddbae9ae9d6e6359",
+  "fingerprint_rule": "SHA256 over UTF-8 base_snapshot_id, sorted asset id|file|sha256 rows, and sorted selection policy rows map_level|role|semantic_role|mode, each terminated by LF; wildcard semantic role is *",
+  "build_method": "Immutable World-scale corrective overlay. The watercolor surface is sampled once over the whole map; mountain sources are transparent RGBA8 and use explicit source-axis metadata.",
+  "selection_overrides": [
+    {
+      "map_level": "world",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "mode": "replace_base_candidates",
+      "asset_ids": [
+        "fantasy_neutral.v33.world_mountain_range.01",
+        "fantasy_neutral.v33.world_mountain_range.02",
+        "fantasy_neutral.v33.world_mountain_range.03"
+      ],
+      "reason": "Replace the warm V3.2 ridge stickers with a coherent neutral-gray painterly family."
+    },
+    {
+      "map_level": "world",
+      "role": "vegetation_stamp",
+      "semantic_role": "*",
+      "mode": "suppress",
+      "asset_ids": [],
+      "reason": "World forests remain continuous macro biomes, never individual tactical tree or bush stamps."
+    },
+    {
+      "map_level": "world",
+      "role": "world_surface_modulation",
+      "semantic_role": "watercolor",
+      "mode": "add",
+      "asset_ids": ["fantasy_neutral.v33.world_surface.watercolor"],
+      "reason": "Provide one quiet non-repeating painterly surface shared by preview, editor and PNG output."
+    }
+  ],
+  "selection_exclusions": [
+    {
+      "map_level": "world",
+      "role": "vegetation_stamp",
+      "semantic_role": "*",
+      "reason": "Prevent local tree, bush and forest-edge stamps at continental scale."
+    }
+  ],
+  "human_review": {
+    "status": "accepted_for_corrective_runtime_overlay",
+    "reviewer": "project_owner_direction_and_visual_qa",
+    "complete": true,
+    "scope_completed": "World-scale dual-ground contact sheet, alpha-fringe scan, palette and silhouette review"
+  },
+  "distribution": {
+    "status": "project_rights_review_required_before_external_distribution",
+    "rights_clearance_complete": false,
+    "license_assertion": null,
+    "required_action": "Confirm applicable OpenAI ImageGen terms and commercial distribution eligibility before shipping."
+  },
+  "assets": [
+    {
+      "id": "fantasy_neutral.v33.world_surface.watercolor",
+      "family": "world_surface",
+      "role": "world_surface_modulation",
+      "semantic_role": "watercolor",
+      "rendering_class": "single_global_uv",
+      "file": "world_surface/fantasy_neutral__v33__world_surface_watercolor.png",
+      "sha256": "89606188db5de99d0973842062a343ad66e4458398b7ac977a9817cc784fba66",
+      "dimensions": { "width": 1254, "height": 1254 },
+      "transparent": false,
+      "status": "accepted",
+      "acceptance_scope": "runtime_corrective_overlay_only",
+      "allowed_map_types": ["world"],
+      "footprint": { "width": 72, "height": 48 },
+      "zoom_range": { "minimum": 0.1, "maximum": 4.5 },
+      "source_axis_radians": 0.0,
+      "selection_weight": 1,
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_diffuse",
+      "palette_profile": "neutral_monochrome_low_contrast",
+      "provenance": {
+        "method": "ai_generated_bitmap",
+        "tool": "OpenAI ImageGen",
+        "prompt_record": "docs/assets/FANTASY_NEUTRAL_V33_IMAGEGEN_PROVENANCE.md",
+        "license_status": "pending_rights_review"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v33.world_mountain_range.01",
+      "family": "world_macro_mountains",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "world_macro_mountains/fantasy_neutral__v33__world_mountain_range__01.png",
+      "sha256": "2c33e02c046821ece86eaca611b2c1f7b80fa6a1ab79ed1cdade81287d0b0026",
+      "dimensions": { "width": 1672, "height": 941 },
+      "transparent": true,
+      "status": "accepted",
+      "acceptance_scope": "runtime_corrective_overlay_only",
+      "allowed_map_types": ["world"],
+      "footprint": { "width": 10, "height": 5 },
+      "zoom_range": { "minimum": 0.1, "maximum": 4.5 },
+      "source_axis_radians": 0.3700098,
+      "selection_weight": 3,
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_neutral_stone",
+      "provenance": {
+        "method": "ai_generated_bitmap_edge_sanitized",
+        "tool": "OpenAI ImageGen",
+        "prompt_record": "docs/assets/FANTASY_NEUTRAL_V33_IMAGEGEN_PROVENANCE.md",
+        "qa_record": "build/map-feedback/world-v33-asset-candidates/mountains/qa_report.json",
+        "license_status": "pending_rights_review"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v33.world_mountain_range.02",
+      "family": "world_macro_mountains",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "world_macro_mountains/fantasy_neutral__v33__world_mountain_range__02.png",
+      "sha256": "2e69b5c5c8f2344e7aa3f5b88960759082202838d0d293cdfd51bfa276931d0e",
+      "dimensions": { "width": 1774, "height": 887 },
+      "transparent": true,
+      "status": "accepted",
+      "acceptance_scope": "runtime_corrective_overlay_only",
+      "allowed_map_types": ["world"],
+      "footprint": { "width": 11, "height": 5 },
+      "zoom_range": { "minimum": 0.1, "maximum": 4.5 },
+      "source_axis_radians": 0.1151917,
+      "selection_weight": 6,
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_neutral_stone",
+      "provenance": {
+        "method": "ai_generated_bitmap_edge_sanitized",
+        "tool": "OpenAI ImageGen",
+        "prompt_record": "docs/assets/FANTASY_NEUTRAL_V33_IMAGEGEN_PROVENANCE.md",
+        "qa_record": "build/map-feedback/world-v33-asset-candidates/mountains/qa_report.json",
+        "license_status": "pending_rights_review"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v33.world_mountain_range.03",
+      "family": "world_macro_mountains",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "world_macro_mountains/fantasy_neutral__v33__world_mountain_range__03.png",
+      "sha256": "759a45c3895ca971bd6faf263a4af8d0e1b766698e4814f049996b754732be44",
+      "dimensions": { "width": 1672, "height": 941 },
+      "transparent": true,
+      "status": "accepted",
+      "acceptance_scope": "runtime_corrective_overlay_only",
+      "allowed_map_types": ["world"],
+      "footprint": { "width": 10, "height": 5 },
+      "zoom_range": { "minimum": 0.1, "maximum": 4.5 },
+      "source_axis_radians": -0.0767945,
+      "selection_weight": 1,
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_neutral_stone",
+      "provenance": {
+        "method": "ai_generated_bitmap_edge_sanitized",
+        "tool": "OpenAI ImageGen",
+        "prompt_record": "docs/assets/FANTASY_NEUTRAL_V33_IMAGEGEN_PROVENANCE.md",
+        "qa_record": "build/map-feedback/world-v33-asset-candidates/mountains/qa_report.json",
+        "license_status": "pending_rights_review"
+      }
+    }
+  ]
+}

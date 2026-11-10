@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+    add_executable(text_draft_recovery_tests tools/text_draft_recovery_tests.cpp)
+    target_link_libraries(text_draft_recovery_tests PRIVATE gm_core)
+    add_test(NAME text_draft_recovery COMMAND text_draft_recovery_tests)
+endif()

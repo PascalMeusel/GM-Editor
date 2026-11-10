@@ -1,0 +1,17 @@
+imgui.ini text eol=lf
+.gitignore text eol=lf
+CMakeLists.txt text eol=lf
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.h text eol=lf
+*.patch text eol=lf
+*.ps1 text eol=lf
+*.cmake text eol=lf
+*.yml text eol=lf
+# Asset manifests bind exact bytes; checkout must not rewrite their line endings.
+Resources/** -text
+Resources/Fonts/Inter/*.txt text eol=lf
+Resources/Fonts/Inter/*.md text eol=lf
+Resources/Fonts/Inter/*.ttf binary
+# Preserve the exact bytes covered by the content-review SHA-256 decision.
+/Models/Rulesets/DND/DND5eSpellResolutionDefaults.hpp -text

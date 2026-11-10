@@ -1,0 +1,9 @@
+set(APPLICATION_SOURCES
+    "${GM_APPLICATION_SOURCE_ROOT}/Application.cpp"
+    "${GM_APPLICATION_SOURCE_ROOT}/ApplicationAccessibility.cpp"
+    "${GM_APPLICATION_SOURCE_ROOT}/ApplicationCommands.cpp"
+    "${GM_APPLICATION_SOURCE_ROOT}/ApplicationGlfwDocking.cpp"
+    "${GM_APPLICATION_SOURCE_ROOT}/ApplicationLifecycle.cpp"
+    "${GM_APPLICATION_SOURCE_ROOT}/ApplicationRun.cpp"
+    "${GM_APPLICATION_SOURCE_ROOT}/ApplicationTheme.cpp"
+)

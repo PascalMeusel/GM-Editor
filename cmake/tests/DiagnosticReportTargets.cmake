@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+    add_executable(diagnostic_report_tests tools/diagnostic_report_tests.cpp)
+    target_link_libraries(diagnostic_report_tests PRIVATE gm_core)
+    add_test(NAME diagnostic_report COMMAND diagnostic_report_tests)
+endif()

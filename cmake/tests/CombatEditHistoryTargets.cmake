@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+    add_executable(combat_edit_history_tests tools/combat_edit_history_tests.cpp)
+    target_link_libraries(combat_edit_history_tests PRIVATE gm_core)
+    add_test(NAME combat_edit_history COMMAND combat_edit_history_tests)
+endif()

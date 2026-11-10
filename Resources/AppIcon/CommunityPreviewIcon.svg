@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">GM Editor · Session book</title>
+  <desc id="desc">An open campaign book with a route and a brass page marker.</desc>
+  <rect x="5" y="5" width="118" height="118" rx="27" fill="#293832"/>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M21 38Q41 28 64 38 88 28 107 38V94Q83 87 64 99 43 87 21 94Z" fill="#bba97a" stroke="#162b25" stroke-width="3"/>
+    <path d="M23 33Q45 26 64 37V92Q44 81 23 89Z" fill="#f0e7cb"/>
+    <path d="M64 37Q84 26 105 33V89Q83 81 64 92Z" fill="#dfd1aa"/>
+    <path d="M64 38V92" fill="none" stroke="#9b8c67" stroke-width="2"/>
+    <path d="M31 72C40 73 48 59 54 56" fill="none" stroke="#427a6e" stroke-width="3.5"/>
+    <circle cx="32" cy="72" r="3.3" fill="#427a6e"/>
+    <circle cx="53" cy="56" r="3.3" fill="#427a6e"/>
+    <path d="M81 31 93 30V65L87 60 81 66Z" fill="#bc8e42"/>
+    <path d="M75 75Q85 71 97 75" fill="none" stroke="#a69670" stroke-width="2"/>
+  </g>
+</svg>

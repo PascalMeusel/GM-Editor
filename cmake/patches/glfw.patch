@@ -1,0 +1,36 @@
+diff --git a/src/wgl_context.c b/src/wgl_context.c
+index 3c7d71c2..0cf538c8 100644
+--- a/src/wgl_context.c
++++ b/src/wgl_context.c
+@@ -341,7 +341,11 @@ static void swapBuffersWGL(_GLFWwindow* window)
+         }
+     }
+ 
+-    SwapBuffers(window->context.wgl.dc);
++    if (!SwapBuffers(window->context.wgl.dc))
++    {
++        _glfwInputErrorWin32(GLFW_PLATFORM_ERROR,
++                            "WGL: Failed to swap buffers");
++    }
+ }
+ 
+ static void swapIntervalWGL(int interval)
+@@ -364,8 +368,11 @@ static void swapIntervalWGL(int interval)
+         }
+     }
+ 
+-    if (_glfw.wgl.EXT_swap_control)
+-        wglSwapIntervalEXT(interval);
++    if (_glfw.wgl.EXT_swap_control && !wglSwapIntervalEXT(interval))
++    {
++        _glfwInputErrorWin32(GLFW_PLATFORM_ERROR,
++                            "WGL: Failed to set swap interval");
++    }
+ }
+ 
+ static int extensionSupportedWGL(const char* extension)
+@@ -797,4 +804,3 @@ GLFWAPI HGLRC glfwGetWGLContext(GLFWwindow* handle)
+ }
+ 
+ #endif // _GLFW_WIN32
+-

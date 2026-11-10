@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+    add_executable(autosave_policy_tests tools/autosave_policy_tests.cpp)
+    target_link_libraries(autosave_policy_tests PRIVATE gm_core)
+    add_test(NAME autosave_policy COMMAND autosave_policy_tests)
+endif()

@@ -1,0 +1,56 @@
+name: Bug report
+description: Report something that goes wrong while using GM Editor.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Write in English or German. Use fictional data and remove private campaign details from screenshots and logs. Follow SECURITY.md for security vulnerabilities."
+  - type: input
+    id: area
+    attributes:
+      label: Where in the program?
+      placeholder: "For example: World > Map Creator > Edit"
+  - type: textarea
+    id: problem
+    attributes:
+      label: What went wrong?
+      placeholder: Describe what you saw, and attach a screenshot if useful.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen instead?
+      description: Describe the behavior you expected as a user.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: How can we reproduce it?
+      placeholder: "1. Open ...\n2. Click ...\n3. Observe ..."
+  - type: input
+    id: environment
+    attributes:
+      label: Build and environment
+      placeholder: "Build/version, Windows version, UI language, resolution and display scaling (if relevant)"
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: How will you know it is fixed?
+      placeholder: "- [ ] The original steps work correctly.\n- [ ] The change still works after save and reopen."
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact
+      options:
+        - Normal - workaround available
+        - High - blocks my workflow
+        - Critical - crash or data loss
+        - Low - visual polish
+      default: 0
+  - type: textarea
+    id: context
+    attributes:
+      label: Extra context
+      description: Optional logs, screenshots, related tickets or a small sample. Remove private campaign content before attaching.

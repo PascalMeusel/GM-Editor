@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+    add_executable(database_migration_safety_tests tools/database_migration_safety_tests.cpp)
+    target_link_libraries(database_migration_safety_tests PRIVATE gm_core)
+    add_test(NAME database_migration_safety COMMAND database_migration_safety_tests)
+endif()

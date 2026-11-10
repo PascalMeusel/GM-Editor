@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+add_executable(travel_session_integration_tests tools/travel_session_integration_tests.cpp)
+target_link_libraries(travel_session_integration_tests PRIVATE gm_core)
+add_test(NAME travel_session_integration COMMAND travel_session_integration_tests)
+endif()

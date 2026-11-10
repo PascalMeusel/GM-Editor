@@ -1,0 +1,99 @@
+name: Portable core checks
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+    types: [opened, synchronize, reopened, ready_for_review]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gm-editor-portable-core-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  release-tooling:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - name: Verify source export safety
+        run: |
+          python3 -m unittest discover -s tools -p test_prepare_open_source.py
+          python3 -m unittest discover -s tools -p test_package_community_preview.py
+
+  windows-core:
+    name: windows-core-hosted
+    if: github.event_name != 'pull_request' || !github.event.pull_request.draft
+    runs-on: windows-2025
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          submodules: recursive
+          persist-credentials: false
+      - name: Build shared core and portable tests
+        shell: powershell -NoProfile -ExecutionPolicy Bypass -Command ". '{0}'"
+        run: >-
+          ./scripts/build-windows-msvc.ps1
+          -Configuration Debug
+          -BuildDir "$env:RUNNER_TEMP/gm-editor-portable"
+          -Jobs 2
+          -Targets TTRPG_Editor,gm_header_checks,foundation_tests,schema_migration_tests,domain_persistence_tests,incremental_persistence_tests,map_preview_compiler_tests,map_crash_journal_worker_tests,map_png_export_task_tests,map_png_export_planning_tests,campaign_export_tests,player_safety_tests,complete_session_tests,session_plan_tests,battle_tracker_turns_tests,battle_tracker_preparation_tests,workspace_navigation_tests,workspace_ui_interaction_tests,ruleset_library_tests,localization_tests,database_migration_safety_tests,autosave_policy_tests,campaign_edit_history_tests,tabletop_history_controller_tests,map_creator_campaign_boundary_tests,world_inspector_draft_tests,world_draft_recovery_tests,world_inspector_tests,world_context_workflow_tests,notification_history_tests,text_draft_recovery_tests,session_outcome_tests,player_publication_assets_tests,player_review_session_tests,map_player_render_geometry_tests,map_preview_parity_tests,scoped_image_texture_cache_tests,player_recap_package_tests,campaign_markdown_exchange_tests,uvtt_export_tests,diagnostic_report_tests,travel_session_integration_tests,combat_edit_history_tests,starter_campaign_template_tests,character_advancement_tests,session_presentation_ui_tests
+      - name: Run portable core tests
+        shell: powershell -NoProfile -ExecutionPolicy Bypass -Command ". '{0}'"
+        run: >-
+          ctest --test-dir "$env:RUNNER_TEMP/gm-editor-portable"
+          --output-on-failure --parallel 2
+          -R '^(foundation_tests|schema_migration_tests|domain_persistence|incremental_persistence|map_preview_compiler|map_crash_journal_worker|map_png_export_task|map_png_export_planning|campaign_export|player_safety_tests|complete_session|session_plan_tests|battle_tracker_turns|battle_tracker_preparation|workspace_navigation|workspace_ui_interaction|workspace_ui_interaction_german|workspace_ui_interaction_compact|workspace_ui_interaction_compact_german|ruleset_library_tests|localization_tests|database_migration_safety|autosave_policy|campaign_edit_history|tabletop_history_controller|map_creator_campaign_boundary|world_inspector_draft|world_draft_recovery|world_inspector_tests|world_context_workflow|notification_history|text_draft_recovery|session_outcome|player_publication_assets|player_review_session|map_player_render_geometry_tests|map_preview_parity_tests|scoped_image_texture_cache|player_recap_package|campaign_markdown_exchange|uvtt_export|diagnostic_report|travel_session_integration|combat_edit_history|starter_campaign_template_tests|character_advancement|session_presentation_ui|focused_module_size_contract|production_source_manifest_contract|editor_architecture_contract|localized_imgui_literal_gate|localized_imgui_literal_gate_controls|release_package_preflight_tests)$'
+
+  linux-core:
+    name: linux-core
+    if: github.event_name != 'pull_request' || !github.event.pull_request.draft
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          submodules: recursive
+          persist-credentials: false
+      - name: Install native build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends \
+            ninja-build libgl1-mesa-dev libxrandr-dev libxinerama-dev \
+            libxcursor-dev libxi-dev libpng-dev libjpeg-dev libwayland-bin \
+            libwayland-dev libxkbcommon-dev
+      - name: Configure portable core
+        run: >-
+          cmake -S . -B "$RUNNER_TEMP/gm-editor-portable"
+          -G Ninja
+          -DCMAKE_BUILD_TYPE=Debug
+          -DTTRPG_BUILD_TESTS=ON
+      - name: Build shared core and portable tests
+        run: >-
+          cmake --build "$RUNNER_TEMP/gm-editor-portable"
+          --parallel 2
+          --target gm_header_checks foundation_tests schema_migration_tests
+          domain_persistence_tests incremental_persistence_tests
+          map_preview_compiler_tests map_crash_journal_worker_tests
+          map_png_export_task_tests map_png_export_planning_tests
+          campaign_export_tests player_safety_tests complete_session_tests session_plan_tests battle_tracker_turns_tests battle_tracker_preparation_tests
+          workspace_navigation_tests workspace_ui_interaction_tests ruleset_library_tests localization_tests
+          database_migration_safety_tests autosave_policy_tests campaign_edit_history_tests tabletop_history_controller_tests map_creator_campaign_boundary_tests
+          world_inspector_draft_tests world_draft_recovery_tests world_inspector_tests world_context_workflow_tests notification_history_tests
+          text_draft_recovery_tests session_outcome_tests player_publication_assets_tests player_review_session_tests map_player_render_geometry_tests map_preview_parity_tests scoped_image_texture_cache_tests
+          player_recap_package_tests campaign_markdown_exchange_tests uvtt_export_tests diagnostic_report_tests
+          travel_session_integration_tests combat_edit_history_tests
+          starter_campaign_template_tests character_advancement_tests session_presentation_ui_tests
+      - name: Run portable core tests
+        run: >-
+          ctest --test-dir "$RUNNER_TEMP/gm-editor-portable"
+          --output-on-failure --parallel 2
+          -R '^(foundation_tests|schema_migration_tests|domain_persistence|incremental_persistence|map_preview_compiler|map_crash_journal_worker|map_png_export_task|map_png_export_planning|campaign_export|player_safety_tests|complete_session|session_plan_tests|battle_tracker_turns|battle_tracker_preparation|workspace_navigation|workspace_ui_interaction|workspace_ui_interaction_german|workspace_ui_interaction_compact|workspace_ui_interaction_compact_german|ruleset_library_tests|localization_tests|database_migration_safety|autosave_policy|campaign_edit_history|tabletop_history_controller|map_creator_campaign_boundary|world_inspector_draft|world_draft_recovery|world_inspector_tests|world_context_workflow|notification_history|text_draft_recovery|session_outcome|player_publication_assets|player_review_session|map_player_render_geometry_tests|map_preview_parity_tests|scoped_image_texture_cache|player_recap_package|campaign_markdown_exchange|uvtt_export|diagnostic_report|travel_session_integration|combat_edit_history|starter_campaign_template_tests|character_advancement|session_presentation_ui|focused_module_size_contract|production_source_manifest_contract|editor_architecture_contract)$'

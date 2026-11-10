@@ -1,0 +1,9 @@
+# Maintainer review is especially important for release and trust boundaries.
+/.github/ @PascalMeusel
+/LICENSE @PascalMeusel
+/LICENSING.md @PascalMeusel
+/THIRD_PARTY_NOTICES.md @PascalMeusel
+/tools/prepare_open_source.py @PascalMeusel
+/distribution/ @PascalMeusel
+/Models/Persistence/ @PascalMeusel
+/Models/Session/PlayerSafe* @PascalMeusel

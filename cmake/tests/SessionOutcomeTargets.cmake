@@ -1,0 +1,5 @@
+if(TTRPG_BUILD_TESTS)
+add_executable(session_outcome_tests tools/session_outcome_tests.cpp)
+target_link_libraries(session_outcome_tests PRIVATE gm_core)
+add_test(NAME session_outcome COMMAND session_outcome_tests)
+endif()

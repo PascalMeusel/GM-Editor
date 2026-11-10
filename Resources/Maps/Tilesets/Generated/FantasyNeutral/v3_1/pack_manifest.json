@@ -1,0 +1,2616 @@
+{
+  "schema_version": 1,
+  "style_id": "fantasy_neutral",
+  "style_version": 3,
+  "atlas_version": "3.1",
+  "snapshot_id": "fantasy_neutral_v3_1_aea3165fcbd3eda3",
+  "asset_count": 60,
+  "accepted_count": 60,
+  "base_snapshot_id": "fantasy_neutral_v3_15650456ddb04b04",
+  "build_method": "deterministic scale-specific composites from the 424 owner-approved V3 assets",
+  "base_asset_overrides": [
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v031",
+      "semantic_role": "gravel",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v032",
+      "semantic_role": "gravel",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v033",
+      "semantic_role": "earth",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v034",
+      "semantic_role": "earth",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v035",
+      "semantic_role": "earth",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v036",
+      "semantic_role": "earth",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v037",
+      "semantic_role": "coastal_sand",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v038",
+      "semantic_role": "coastal_sand",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v039",
+      "semantic_role": "water_shallow",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v040",
+      "semantic_role": "water_shallow",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v041",
+      "semantic_role": "water_shallow",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v042",
+      "semantic_role": "water_shallow",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v043",
+      "semantic_role": "water_deep",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v044",
+      "semantic_role": "water_deep",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v045",
+      "semantic_role": "water_deep",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v046",
+      "semantic_role": "water_deep",
+      "reason": "corrected visual classification in V3.1"
+    },
+    {
+      "id": "fantasy_neutral.v3.terrain_water.v047",
+      "semantic_role": "water_deep",
+      "reason": "corrected visual classification in V3.1"
+    }
+  ],
+  "assets": [
+    {
+      "id": "fantasy_neutral.v31.macro_material.01",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "grass_temperate",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__01.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v001"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.02",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "grass_temperate",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__02.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v002"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.03",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "forest_floor",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__03.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v011"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.04",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "forest_floor",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__04.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v012"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.05",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "earth",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__05.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v033"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.06",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "coastal_sand",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__06.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v038"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.07",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "water_shallow",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__07.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v041"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.08",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "water_shallow",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__08.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v042"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.09",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "water_deep",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__09.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v046"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.10",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "water_deep",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__10.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v047"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.11",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "field_soil",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__11.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v025"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.macro_material.12",
+      "family": "macro_materials",
+      "role": "terrain_material",
+      "semantic_role": "mud",
+      "rendering_class": "material",
+      "file": "macro_materials/fantasy_neutral__v31__macro_material__12.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": false,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 1.0,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 1.8
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.terrain_water.v019"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.01",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__01.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v001"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.02",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__02.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v002"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.03",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__03.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v003"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.04",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__04.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v004"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.05",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__05.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v005"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.06",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__06.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v006"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.07",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__07.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v007"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.08",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__08.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v008"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.09",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__09.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v009"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.10",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__10.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v010"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.11",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__11.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v011"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.12",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__12.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v012"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.13",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__13.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v013"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.14",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__14.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v014"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.15",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__15.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v015"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.boundary_mask.16",
+      "family": "boundary_masks",
+      "role": "blend_mask_or_decal",
+      "semantic_role": "organic_blend_mask",
+      "rendering_class": "boundary_mask",
+      "file": "boundary_masks/fantasy_neutral__v31__boundary_mask__16.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 6
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.transitions_details.v016"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.01",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__01.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v001",
+          "fantasy_neutral.v3.landscape.v003",
+          "fantasy_neutral.v3.landscape.v005"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.02",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__02.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v002",
+          "fantasy_neutral.v3.landscape.v004",
+          "fantasy_neutral.v3.landscape.v001"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.03",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__03.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v003",
+          "fantasy_neutral.v3.landscape.v005",
+          "fantasy_neutral.v3.landscape.v002"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.04",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__04.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v004",
+          "fantasy_neutral.v3.landscape.v001",
+          "fantasy_neutral.v3.landscape.v003"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.05",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__05.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v005",
+          "fantasy_neutral.v3.landscape.v002",
+          "fantasy_neutral.v3.landscape.v004"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.06",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__06.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v001",
+          "fantasy_neutral.v3.landscape.v003",
+          "fantasy_neutral.v3.landscape.v005"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.07",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__07.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v002",
+          "fantasy_neutral.v3.landscape.v004",
+          "fantasy_neutral.v3.landscape.v001"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.08",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__08.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v003",
+          "fantasy_neutral.v3.landscape.v005",
+          "fantasy_neutral.v3.landscape.v002"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.09",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__09.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v004",
+          "fantasy_neutral.v3.landscape.v001",
+          "fantasy_neutral.v3.landscape.v003"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.10",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__10.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v005",
+          "fantasy_neutral.v3.landscape.v002",
+          "fantasy_neutral.v3.landscape.v004"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.11",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__11.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v001",
+          "fantasy_neutral.v3.landscape.v003",
+          "fantasy_neutral.v3.landscape.v005"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.mountain_range.12",
+      "family": "mountain_ranges",
+      "role": "landscape_stamp",
+      "semantic_role": "connected_ridge",
+      "rendering_class": "cluster",
+      "file": "mountain_ranges/fantasy_neutral__v31__mountain_range__12.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 640
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 7,
+        "height": 4
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.landscape.v002",
+          "fantasy_neutral.v3.landscape.v004",
+          "fantasy_neutral.v3.landscape.v001"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.01",
+      "family": "forest_clusters",
+      "role": "vegetation_stamp",
+      "semantic_role": "mixed_tree_group",
+      "rendering_class": "cluster",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__01.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 5
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.vegetation.v013",
+          "fantasy_neutral.v3.vegetation.v002",
+          "fantasy_neutral.v3.vegetation.v009",
+          "fantasy_neutral.v3.vegetation.v022",
+          "fantasy_neutral.v3.vegetation.v017"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.02",
+      "family": "forest_clusters",
+      "role": "vegetation_stamp",
+      "semantic_role": "mixed_tree_group",
+      "rendering_class": "cluster",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__02.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 5
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.vegetation.v002",
+          "fantasy_neutral.v3.vegetation.v009",
+          "fantasy_neutral.v3.vegetation.v022",
+          "fantasy_neutral.v3.vegetation.v017",
+          "fantasy_neutral.v3.vegetation.v006"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.03",
+      "family": "forest_clusters",
+      "role": "vegetation_stamp",
+      "semantic_role": "mixed_tree_group",
+      "rendering_class": "cluster",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__03.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 5
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.vegetation.v009",
+          "fantasy_neutral.v3.vegetation.v022",
+          "fantasy_neutral.v3.vegetation.v017",
+          "fantasy_neutral.v3.vegetation.v006",
+          "fantasy_neutral.v3.vegetation.v007"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.04",
+      "family": "forest_clusters",
+      "role": "vegetation_stamp",
+      "semantic_role": "mixed_tree_group",
+      "rendering_class": "cluster",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__04.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 5
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.vegetation.v022",
+          "fantasy_neutral.v3.vegetation.v017",
+          "fantasy_neutral.v3.vegetation.v006",
+          "fantasy_neutral.v3.vegetation.v007",
+          "fantasy_neutral.v3.vegetation.v020"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.05",
+      "family": "forest_clusters",
+      "role": "vegetation_stamp",
+      "semantic_role": "mixed_tree_group",
+      "rendering_class": "cluster",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__05.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 5
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.vegetation.v017",
+          "fantasy_neutral.v3.vegetation.v006",
+          "fantasy_neutral.v3.vegetation.v007",
+          "fantasy_neutral.v3.vegetation.v020",
+          "fantasy_neutral.v3.vegetation.v015"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.06",
+      "family": "forest_clusters",
+      "role": "vegetation_stamp",
+      "semantic_role": "mixed_tree_group",
+      "rendering_class": "cluster",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__06.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 5
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.vegetation.v006",
+          "fantasy_neutral.v3.vegetation.v007",
+          "fantasy_neutral.v3.vegetation.v020",
+          "fantasy_neutral.v3.vegetation.v015",
+          "fantasy_neutral.v3.vegetation.v004"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.07",
+      "family": "forest_clusters",
+      "role": "vegetation_stamp",
+      "semantic_role": "mixed_tree_group",
+      "rendering_class": "cluster",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__07.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 5
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.vegetation.v007",
+          "fantasy_neutral.v3.vegetation.v020",
+          "fantasy_neutral.v3.vegetation.v015",
+          "fantasy_neutral.v3.vegetation.v004",
+          "fantasy_neutral.v3.vegetation.v011"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.forest_cluster.08",
+      "family": "forest_clusters",
+      "role": "vegetation_stamp",
+      "semantic_role": "mixed_tree_group",
+      "rendering_class": "cluster",
+      "file": "forest_clusters/fantasy_neutral__v31__forest_cluster__08.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 768
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 6,
+        "height": 5
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.25,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.vegetation.v020",
+          "fantasy_neutral.v3.vegetation.v015",
+          "fantasy_neutral.v3.vegetation.v004",
+          "fantasy_neutral.v3.vegetation.v011",
+          "fantasy_neutral.v3.vegetation.v024"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.01",
+      "family": "overview_curves",
+      "role": "curve_profile",
+      "semantic_role": "road_dirt",
+      "rendering_class": "curve_profile",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__01.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.roads_rivers.v007"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.02",
+      "family": "overview_curves",
+      "role": "curve_profile",
+      "semantic_role": "road_gravel",
+      "rendering_class": "curve_profile",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__02.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.roads_rivers.v014"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.03",
+      "family": "overview_curves",
+      "role": "curve_profile",
+      "semantic_role": "road_stone",
+      "rendering_class": "curve_profile",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__03.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.roads_rivers.v021"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.04",
+      "family": "overview_curves",
+      "role": "curve_profile",
+      "semantic_role": "river",
+      "rendering_class": "curve_profile",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__04.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.roads_rivers.v032"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.05",
+      "family": "overview_curves",
+      "role": "curve_profile",
+      "semantic_role": "river_deep",
+      "rendering_class": "curve_profile",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__05.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.roads_rivers.v033"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_curve.06",
+      "family": "overview_curves",
+      "role": "curve_profile",
+      "semantic_role": "path",
+      "rendering_class": "curve_profile",
+      "file": "overview_curves/fantasy_neutral__v31__overview_curve__06.png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 8.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.16,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 2.5
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.roads_rivers.v006"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.01",
+      "family": "overview_symbols",
+      "role": "map_symbol",
+      "semantic_role": "capital",
+      "rendering_class": "map_symbol",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__01.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 2.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.08,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 3.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.map_symbols.v001"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.02",
+      "family": "overview_symbols",
+      "role": "map_symbol",
+      "semantic_role": "city",
+      "rendering_class": "map_symbol",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__02.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 2.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.08,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 3.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.map_symbols.v002"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.03",
+      "family": "overview_symbols",
+      "role": "map_symbol",
+      "semantic_role": "harbor",
+      "rendering_class": "map_symbol",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__03.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 2.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.08,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 3.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.map_symbols.v008"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.04",
+      "family": "overview_symbols",
+      "role": "map_symbol",
+      "semantic_role": "fortress",
+      "rendering_class": "map_symbol",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__04.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 2.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.08,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 3.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.map_symbols.v005"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.05",
+      "family": "overview_symbols",
+      "role": "map_symbol",
+      "semantic_role": "town",
+      "rendering_class": "map_symbol",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__05.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 2.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.08,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 3.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.map_symbols.v003"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    },
+    {
+      "id": "fantasy_neutral.v31.overview_symbol.06",
+      "family": "overview_symbols",
+      "role": "map_symbol",
+      "semantic_role": "village",
+      "rendering_class": "map_symbol",
+      "file": "overview_symbols/fantasy_neutral__v31__overview_symbol__06.png",
+      "dimensions": {
+        "width": 256,
+        "height": 256
+      },
+      "transparent": true,
+      "status": "accepted",
+      "allowed_map_types": [
+        "world",
+        "region"
+      ],
+      "minimum_display_cells": 2.0,
+      "maximum_display_cells": 2.0,
+      "footprint": {
+        "width": 1,
+        "height": 1
+      },
+      "placement_density": 0.08,
+      "cluster_spacing": 5.0,
+      "zoom_range": {
+        "minimum": 0.2,
+        "maximum": 3.0
+      },
+      "perspective": "orthographic_top_down",
+      "style": "fantasy_neutral_warm_painterly",
+      "lighting_profile": "neutral_overhead_soft",
+      "palette_profile": "muted_warm_natural",
+      "provenance": {
+        "method": "deterministic_composite_from_accepted_v3",
+        "source_asset_ids": [
+          "fantasy_neutral.v3.map_symbols.v004"
+        ],
+        "license": "inherits accepted FantasyNeutral V3 sources"
+      }
+    }
+  ]
+}
